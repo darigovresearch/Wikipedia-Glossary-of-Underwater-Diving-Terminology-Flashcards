@@ -2476,3 +2476,1889 @@ A way of modifying the <span title="See entry on this page at § M-value" clas
 <dt class="glossary" id="guide_line" style="margin-top: 0.4em;"><dfn class="glossary">guide line</dfn></dt>
 <dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#distance_line"><span title="See entry on this page at § distance line" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">distance line</span></a></span></p></dd>
 
+<dt class="glossary" id="habitat" style="margin-top: 0.4em;"><dfn class="glossary">habitat</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Underwater_habitat" title="Underwater habitat">Underwater habitat</a></span></p> 
+An underwater structure inside which divers can carry out dry welding or which is fitted out with life support facilities.<sup id="cite_ref-IMCA_D_057_1-0" class="reference"><a href="#cite_note-IMCA_D_057-1">&#91;1&#93;</a></sup></dd>
+
+<dt class="glossary" id="haldanean" style="margin-top: 0.4em;"><dfn class="glossary">Haldanean</dfn></dt>
+<dt class="glossary" id="haldanian" style="margin-top: -0.2em;"><dfn class="glossary">Haldanian</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Decompression_theory#Critical_ratio_hypothesis" title="Decompression theory">Decompression theory#Critical ratio hypothesis</a></span></p>
+Decompression models based on the principles described by <a href="/wiki/John_Scott_Haldane" title="John Scott Haldane">John Scott Haldane</a>.</dd>
+
+<dt class="glossary" id="half+200" style="margin-top: 0.4em;"><dfn class="glossary">half+200</dfn></dt>
+<dt class="glossary" id="half+15" style="margin-top: -0.2em;"><dfn class="glossary">half+15</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Scuba_gas_management#Rule_of_thumb_gas_planning" title="Scuba gas management">Scuba gas management#Rule of thumb gas planning</a></span></p>
+An alternative reserve calculation strategy to the <span title="See entry on this page at § rule of thirds" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#rule_of_thirds" title="Glossary of underwater diving terminology: P–S">rule of thirds</a></span> for breathing stage cylinders. The cylinder is breathed down to half of its starting pressure plus 200&#160;psi (or 15 bar), so that a stage cylinder filled to 3000&#160;psi would be breathed down to 1700 psi before being dropped.<sup id="cite_ref-Cave_diving_terms_2-0" class="reference"><a href="#cite_note-Cave_diving_terms-2">&#91;2&#93;</a></sup> This is a less conservative strategy for pressures greater than 1200&#160;psi.</dd>
+
+<dt class="glossary" id="half_duplex" style="margin-top: 0.4em;"><dfn class="glossary">half duplex</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Duplex_(telecommunications)#Half_duplex" title="Duplex (telecommunications)">Duplex (telecommunications)#Half duplex</a></span></p>
+Voice communications system where users take turns to send and receive.</dd>
+
+<dt class="glossary" id="half_mask" style="margin-top: 0.4em;"><dfn class="glossary">half mask</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Diving_mask" title="Diving mask">Diving mask</a></span></p> 
+Diver's mask which covers the eyes and nose but not the mouth.</dd>
+
+<dt class="glossary" id="half_times" style="margin-top: 0.4em;"><dfn class="glossary">half times</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <span title="See entry on this page at § tissue half times" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#tissue_half_times" title="Glossary of underwater diving terminology: T–Z">tissue half times</a></span></span></p></dd>
+<dt class="glossary" id="halocline" style="margin-top: 0.4em;"><dfn class="glossary">halocline</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Halocline" title="Halocline">Halocline</a></span></p>
+A strong variation in salinity over a small depth range within a body of water. Often visible as a blurred or shimmering region due to uneven refractive index.<sup id="cite_ref-Wrolf_Courtney_3-0" class="reference"><a href="#cite_note-Wrolf_Courtney-3">&#91;3&#93;</a></sup></dd>
+
+<dt class="glossary" id="hand-off_cylinder" style="margin-top: 0.4em;"><dfn class="glossary">hand-off cylinder</dfn></dt>
+<dd class="glossary">A diving cylinder, complete with regulator, which can be handed off (manually transferred) to another diver in an emergency, so that the two divers are not obliged to remain in close proximity during the exit and ascent. Transfer of a hand-off cylinder should not compromise either diver's buoyancy to the extent that they cannot make a normal, controlled ascent at neutral buoyancy.</dd>
+
+<dt class="glossary" id="hang" style="margin-top: 0.4em;"><dfn class="glossary">hang</dfn></dt>
+<dd class="glossary">To remain stationary at a specific depth and location, particularly when decompressing.<sup id="cite_ref-Cave_diving_terms_2-1" class="reference"><a href="#cite_note-Cave_diving_terms-2">&#91;2&#93;</a></sup></dd>
+
+<dt class="glossary" id="hang-off" style="margin-top: 0.4em;"><dfn class="glossary">hang-off</dfn></dt>
+<dt class="glossary" id="hang_off" style="margin-top: -0.2em;"><dfn class="glossary">hang off</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Dive_profile#Hang-off_profile" title="Dive profile">Dive profile#Hang-off profile</a></span></p>
+Commercial diving procedure where the diver ascends to a shallower depth to minimise in-gassing during periods of waiting for surface support. The diver generally ascends to 30 ft waiting depth, and bottom time at that depth is not counted towards decompression obligation. When the support is ready, the diver returns to working depth and time elapsed from leaving hang-off depth accumulates towards decompression obligation. The profile appearance approximates a square wave form, or yo-yo profile.<sup id="cite_ref-Overland_1999_4-0" class="reference"><a href="#cite_note-Overland_1999-4">&#91;4&#93;</a></sup></dd>
+
+<dt class="glossary" id="hard_hat_diving" style="margin-top: 0.4em;"><dfn class="glossary">hard hat diving</dfn></dt>
+<dd class="glossary"><a href="/wiki/Surface_supplied_diving" class="mw-redirect" title="Surface supplied diving">Surface supplied diving</a>, generally in <a href="/wiki/Professional_diving" title="Professional diving">professional diving</a>, either wearing a modern <a href="/wiki/Diving_helmet" title="Diving helmet">diving helmet</a> or the old-style <a href="/wiki/Standard_diving_dress" title="Standard diving dress">standard diving dress</a> with copper helmet.</dd>
+
+<dt class="glossary" id="hardwire_communications" style="margin-top: 0.4em;"><dfn class="glossary">hardwire communications</dfn></dt>
+<dd class="glossary">Voice communications using a cable for transmission.</dd>
+
+<dt class="glossary" id="harness" style="margin-top: 0.4em;"><dfn class="glossary">harness</dfn></dt>
+<dd class="glossary">Straps and webbing with associated buckles, D-rings and other accessories used to support the breathing apparatus and secure it to the diver. The harness often has other functions such as supporting weighting and buoyancy control systems and for recovery of the diver from the water. In professional diving the harness is used as a strong point to attach the lifeline or umbilical to the diver.<sup id="cite_ref-IMCA_D_057_1-1" class="reference"><a href="#cite_note-IMCA_D_057-1">&#91;1&#93;</a></sup></dd>
+
+<dt class="glossary" id="hat" style="margin-top: 0.4em;"><dfn class="glossary">hat</dfn></dt>
+<dd class="glossary">Commercial diver term for <a href="/wiki/Diving_helmet" title="Diving helmet">diving helmet</a>.</dd>
+
+<dt class="glossary" id="hazid" style="margin-top: 0.4em;"><dfn class="glossary">HAZID</dfn></dt>
+<dd class="glossary"><a href="/wiki/Hazard_identification" class="mw-redirect" title="Hazard identification">Hazard identification</a> study: A systematic qualitative assessment of potential hazards and threats to health, safety, equipment, property, environment, production, or reputation. May be followed by a <a href="/wiki/Risk_assessment" title="Risk assessment">risk assessment</a>.</dd>
+
+<dt class="glossary" id="hazmat_diving" style="margin-top: 0.4em;"><dfn class="glossary">hazmat diving</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Hazmat_diving" title="Hazmat diving">Hazmat diving</a></span></p>
+Diving in a known hazardous materials environment. The environment may be contaminated by hazardous materials, the diving medium may be inherently a hazardous material, or the environment in which the diving medium is situated may include hazardous materials with a significant risk of exposure to these materials to members of the diving team. Special precautions, equipment and procedures are associated with hazmat diving.</dd>
+
+</dl>
+<h2><span class="mw-headline" id="He">He</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=3" title="Edit section: He">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="head-up_display" style="margin-top: 0.4em;"><dfn class="glossary">head-up display</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: "HUD"</span></p>
+<p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Head-up_display" title="Head-up display">Head-up display</a></span></p>
+A visual display mounted where it is normally in the diver's field of vision.<sup id="cite_ref-Heinerth_5-0" class="reference"><a href="#cite_note-Heinerth-5">&#91;5&#93;</a></sup></dd>
+
+<dt class="glossary" id="health_and_safety_executive" style="margin-top: 0.4em;"><dfn class="glossary">Health and Safety Executive</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: "HSE"</span></p>
+<p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Health_and_Safety_Executive" title="Health and Safety Executive">Health and Safety Executive</a></span></p> 
+UK government department responsible for occupational diver safety in UK.</dd>
+
+<dt class="glossary" id="heavy_gear" style="margin-top: 0.4em;"><dfn class="glossary">heavy gear</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <span title="See entry on this page at § standard diving dress" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#standard_diving_dress" title="Glossary of underwater diving terminology: P–S">standard diving dress</a></span></span></p></dd>
+<dt class="glossary" id="heliair" style="margin-top: 0.4em;"><dfn class="glossary">heliair</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article <a href="/wiki/Trimix_(breathing_gas)" title="Trimix (breathing gas)">Trimix (breathing gas)</a></span></p>
+Trimix blends made by topping up helium with air.<sup id="cite_ref-Scuba_engineer_6-0" class="reference"><a href="#cite_note-Scuba_engineer-6">&#91;6&#93;</a></sup></dd>
+
+<dt class="glossary" id="helicopter_turn" style="margin-top: 0.4em;"><dfn class="glossary">helicopter turn</dfn></dt>
+<dd class="glossary">Manoeuver in which a horizontally trimmed diver uses small fin movements to rotate on the spot on a vertical axis.</dd>
+
+<dt class="glossary" id="heliox" style="margin-top: 0.4em;"><dfn class="glossary">heliox</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Heliox" title="Heliox">Heliox</a></span></p>
+Mixtures of helium and oxygen for use as a breathing gas.<sup id="cite_ref-ISO13293_7-0" class="reference"><a href="#cite_note-ISO13293-7">&#91;7&#93;</a></sup><sup id="cite_ref-Scuba_engineer_6-1" class="reference"><a href="#cite_note-Scuba_engineer-6">&#91;6&#93;</a></sup></dd>
+
+<dt class="glossary" id="helium" style="margin-top: 0.4em;"><dfn class="glossary">helium</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Helium" title="Helium">Helium</a></span></p>
+An <a href="/wiki/Inert_gas" title="Inert gas">inert gas</a> which is used as a component of <a href="/wiki/Breathing_gas" title="Breathing gas">breathing gas</a> mixtures for <a href="/wiki/Deep_diving" title="Deep diving">deep diving</a>.</dd>
+
+<dt class="glossary" id="helium_analyzer" style="margin-top: 0.4em;"><dfn class="glossary">helium analyzer</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Helium_analyzer" title="Helium analyzer">Helium analyzer</a></span></p>
+An instrument used to identify the presence and concentration of helium in a mixture of gases</dd>
+
+<dt class="glossary" id="helium_unscrambler" style="margin-top: 0.4em;"><dfn class="glossary">helium unscrambler</dfn></dt>
+<dt class="glossary" id="helium_speech_unscrambler" style="margin-top: -0.2em;"><dfn class="glossary">helium speech unscrambler</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <span title="See entry on this page at § speech unscrambler" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#speech_unscrambler" title="Glossary of underwater diving terminology: P–S">speech unscrambler</a></span></span></p></dd>
+<dt class="glossary" id="helmet_diving" style="margin-top: 0.4em;"><dfn class="glossary">helmet diving</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#hard_hat_diving"><span title="See entry on this page at § hard hat diving" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">hard hat diving</span></a></span></p></dd>
+<dt class="glossary" id="henry&#39;s_law" style="margin-top: 0.4em;"><dfn class="glossary">Henry's law</dfn></dt>
+<dd class="glossary">Description of the changes in solubility of a given gas in a given liquid as pressure varies.</dd>
+
+</dl>
+<h2><span class="mw-headline" id="Hi">Hi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=4" title="Edit section: Hi">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="hid_light" style="margin-top: 0.4em;"><dfn class="glossary">HID light</dfn></dt>
+<dd class="glossary"><a href="/wiki/High_intensity_discharge" class="mw-redirect" title="High intensity discharge">High intensity discharge</a> light: Used in cave diving <a href="#light_head"><span title="See entry on this page at § light head" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">light heads</span></a> (q.v.).</dd>
+
+<dt class="glossary" id="hira" style="margin-top: 0.4em;"><dfn class="glossary">HIRA</dfn></dt>
+<dd class="glossary">Hazard Identification and Risk Analysis: A <a href="/wiki/Risk_management" title="Risk management">risk management</a> procedure for identifying hazards and assessing the risk associated with them and ways to reduce the risk to an acceptable level.</dd>
+
+</dl>
+<h2><span class="mw-headline" id="Ho">Ho</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=5" title="Edit section: Ho">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="hogarthian_configuration" style="margin-top: 0.4em;"><dfn class="glossary">Hogarthian configuration</dfn></dt>
+<dd class="glossary">A scuba combination of backplate, wing, one-piece harness with crotch-strap, regulator arrangement including long-hose primary with a necklaced secondary demand valve, and, if used with twin cylinders, an isolation manifold. Named after <a href="/wiki/William_Hogarth_Main" title="William Hogarth Main">William Hogarth Main</a>, a developer and proponent of the system.<sup id="cite_ref-Wrolf_Courtney_3-1" class="reference"><a href="#cite_note-Wrolf_Courtney-3">&#91;3&#93;</a></sup></dd>
+
+<dt class="glossary" id="hog_looped" style="margin-top: 0.4em;"><dfn class="glossary">Hog looped</dfn></dt>
+<dd class="glossary">A scuba configuration where the primary demand valve has a <a href="#long_hose"><span title="See entry on this page at § long hose" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">long hose</span></a> which is routed under the right arm, usually tucked under a light battery canister on the waist belt of the harness, and around behind the neck to reach the mouth from the right hand side. Part of the <a href="#hogarthian_configuration"><span title="See entry on this page at § Hogarthian configuration" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Hogarthian configuration</span></a> (q.v.).<sup id="cite_ref-Wrolf_Courtney_3-2" class="reference"><a href="#cite_note-Wrolf_Courtney-3">&#91;3&#93;</a></sup></dd>
+
+<dt class="glossary" id="hold-back_line" style="margin-top: 0.4em;"><dfn class="glossary">hold-back line</dfn></dt>
+<dt class="glossary" id="hold-back_rigging" style="margin-top: -0.2em;"><dfn class="glossary">hold-back rigging</dfn></dt>
+<dd class="glossary">Rigging provided to restrain excessive buoyancy of a <a href="/wiki/Lifting_bag" title="Lifting bag">lifting bag</a> when it is attached to the load and inflated.<sup id="cite_ref-IMCA_D_057_1-2" class="reference"><a href="#cite_note-IMCA_D_057-1">&#91;1&#93;</a></sup></dd>
+
+<dt class="glossary" id="homebrew" style="margin-top: 0.4em;"><dfn class="glossary">homebrew</dfn></dt>
+<dd class="glossary">Amateur blended <a href="#mixed_gas"><span title="See entry on this page at § mixed gas" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">mixed gas</span></a>.<sup id="cite_ref-Wrolf_Courtney_3-3" class="reference"><a href="#cite_note-Wrolf_Courtney-3">&#91;3&#93;</a></sup></dd>
+
+<dt class="glossary" id="hood" style="margin-top: 0.4em;"><dfn class="glossary">hood</dfn></dt>
+<dd class="glossary">Close-fitting thermal head protection, usually neoprene foam, but also latex on some dry suits.</dd>
+
+<dt class="glossary" id="hook_breathing" style="margin-top: 0.4em;"><dfn class="glossary">hook breathing</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <span title="See entry on this page at § recovery breathing" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#recovery_breathing" title="Glossary of underwater diving terminology: P–S">recovery breathing</a></span></span></p></dd>
+<dt class="glossary" id="hooka" style="margin-top: 0.4em;"><dfn class="glossary">hooka</dfn></dt>
+<dt class="glossary" id="hookah" style="margin-top: 0.4em;"><dfn class="glossary">hookah</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <span title="See entry on this page at § airline diving" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#airline_diving" title="Glossary of underwater diving terminology: A–C">airline diving</a></span></span></p></dd>
+<dt class="glossary" id="hopcalite" style="margin-top: 0.4em;"><dfn class="glossary">hopcalite</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Hopcalite" title="Hopcalite">Hopcalite</a></span></p>
+Catalyst sometimes used in breathing air compressor filters to oxidise carbon monoxide to carbon dioxide. Hopcalite is a mixture of manganese oxide, copper oxide and a small amount of silver oxide.</dd>
+
+<dt class="glossary" id="horse_collar" style="margin-top: 0.4em;"><dfn class="glossary">horse collar</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <span title="See entry on this page at § adjustable buoyancy life jacket" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#adjustable_buoyancy_life_jacket" title="Glossary of underwater diving terminology: A–C">adjustable buoyancy life jacket</a></span><sup id="cite_ref-Wrolf_Courtney_3-4" class="reference"><a href="#cite_note-Wrolf_Courtney-3">&#91;3&#93;</a></sup></span></p></dd>
+<dt class="glossary" id="hose_dash_size" style="margin-top: 0.4em;"><dfn class="glossary">hose dash size</dfn></dt>
+<dd class="glossary">Number indicating the bore of a hose in multiples of 1/16" preceded by a dash. for example a –04 hose, typically used for a pneumofathometer hose would have a nominal bore of <style data-mw-deduplicate="TemplateStyles:r1020198016">.mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}</style><span class="frac" role="math"><span class="num">1</span>&#8260;<span class="den">4</span></span> inch (6.4&#160;mm).</dd>
+
+<dt class="glossary" id="hose_organiser" style="margin-top: 0.4em;"><dfn class="glossary">hose organiser</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: hose tidy</span></p>
+Equipment to position and stabilise a hose, particularly in the context of sidemount or sling mounted scuba cylinders, where the regulator air hoses are stored against the cylinder when not in use.</dd>
+
+<dt class="glossary" id="hot_mix" style="margin-top: 0.4em;"><dfn class="glossary">hot mix</dfn></dt>
+<dd class="glossary">A breathing gas mixture with a high percentage of oxygen for the depth at which it is used. Using a gas mixture with a high partial pressure of oxygen.</dd>
+
+<dt class="glossary" id="hot_water_suit" style="margin-top: 0.4em;"><dfn class="glossary">hot water suit</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Diving_suit#Hot_water_suits" title="Diving suit">Diving suit#Hot water suits</a></span></p>
+A loose fitting wetsuit supplied with heated water through a hose in the <a href="/wiki/Diver%27s_umbilical" class="mw-redirect" title="Diver&#39;s umbilical">diver's umbilical</a>, which links the diver to the surface support. The diver controls the flow rate of the water, allowing them to vary the warmth of the suit.</dd>
+
+<dt class="glossary" id="hp" style="margin-top: 0.4em;"><dfn class="glossary">HP</dfn></dt>
+<dd class="glossary">High pressure, generally gas pressures in excess of 30&#160;bar. In most of the world a high pressure diving cylinder is a 300&#160;bar cylinder, but in the US it may refer to anything over 3000&#160;psi working pressure. In a diving context gas working pressures do not frequently exceed 300&#160;bar, but pressures in hydraulic systems and high pressure water jetting equipment may be considerably higher.</dd>
+
+<dt class="glossary" id="hpns" style="margin-top: 0.4em;"><dfn class="glossary">HPNS</dfn></dt>
+<dt class="glossary" id="high-pressure_nervous_syndrome" style="margin-top: -0.2em;"><dfn class="glossary">high-pressure nervous syndrome</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/High-pressure_nervous_syndrome" title="High-pressure nervous syndrome">High-pressure nervous syndrome</a></span></p>
+A neurological and physiological diving disorder that occurs when a diver descends below about 500 feet (150&#160;m) while breathing a helium–oxygen mixture.</dd>
+
+<dt class="glossary" id="hrc" style="margin-top: 0.4em;"><dfn class="glossary">HRC</dfn></dt>
+<dd class="glossary">1.&#160;&#160;See: <a href="#hyperbaric_rescue_capsule"><span title="See entry on this page at § hyperbaric rescue capsule" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">hyperbaric rescue capsule</span></a></dd> 
+<dd class="glossary">2.&#160;&#160;See: <a href="#hyperbaric_rescue_chamber"><span title="See entry on this page at § hyperbaric rescue chamber" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">hyperbaric rescue chamber</span></a></dd>
+
+<dt class="glossary" id="hru" style="margin-top: 0.4em;"><dfn class="glossary">HRU</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#hyperbaric_rescue_unit"><span title="See entry on this page at § hyperbaric rescue unit" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">hyperbaric rescue unit</span></a></span></p></dd>
+<dt class="glossary" id="hse" style="margin-top: 0.4em;"><dfn class="glossary">HSE</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#health_and_Safety_Executive"><span title="See entry on this page at § Health and Safety Executive" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Health and Safety Executive</span></a></span></p></dd>
+</dl>
+<h2><span class="mw-headline" id="Hu">Hu</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=6" title="Edit section: Hu">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="hud" style="margin-top: 0.4em;"><dfn class="glossary">HUD</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#head-up_display"><span title="See entry on this page at § Head-up display" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Head-up display</span></a></span></p></dd>
+<dt class="glossary" id="h-valve" style="margin-top: 0.4em;"><dfn class="glossary">H-valve</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Scuba_cylinder_valve#Dual_outlet_valves" title="Scuba cylinder valve">Scuba cylinder valve#Dual outlet valves</a></span></p>
+Cylinder valve body with two outlets and two valve mechanisms which can be independently controlled so that two regulator first stages can be fitted. Similar to Y-valve but in configuration where the second valve is parallel to the primary, though the secondary valve can sometimes be swivelled.</dd>
+
+<dt class="glossary" id="hydro" style="margin-top: 0.4em;"><dfn class="glossary">hydro</dfn></dt>
+<dd class="glossary">Slang/abbreviation for <a href="#hydrostatic_test"><span title="See entry on this page at § hydrostatic test" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">hydrostatic test</span></a> (q.v.)<sup id="cite_ref-Wrolf_Courtney_3-5" class="reference"><a href="#cite_note-Wrolf_Courtney-3">&#91;3&#93;</a></sup></dd>
+
+<dt class="glossary" id="hydrophobic_membrane" style="margin-top: 0.4em;"><dfn class="glossary">hydrophobic membrane</dfn></dt>
+<dd class="glossary">A membrane that is freely permeable to gas but does not allow the passage of water at low pressure differentials.<sup id="cite_ref-Heinerth_5-1" class="reference"><a href="#cite_note-Heinerth-5">&#91;5&#93;</a></sup></dd>
+
+<dt class="glossary" id="hydrostatic_pressure" style="margin-top: 0.4em;"><dfn class="glossary">hydrostatic pressure</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Hydrostatic_pressure" class="mw-redirect" title="Hydrostatic pressure">Hydrostatic pressure</a></span></p>
+Pressure due to the weight of the water column above a point at depth.</dd>
+
+<dt class="glossary" id="hydrostatic_test" style="margin-top: 0.4em;"><dfn class="glossary">hydrostatic test</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Hydrostatic_test" title="Hydrostatic test">Hydrostatic test</a></span></p>
+Non-destructive test to revalidate pressure vessels which uses water as a test medium. The vessel is pressurised to the <span title="See entry on this page at § test pressure" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#test_pressure" title="Glossary of underwater diving terminology: T–Z">test pressure</a></span> (q.v.) and measured for permanent set.</dd>
+
+<dt class="glossary" id="hydreliox" style="margin-top: 0.4em;"><dfn class="glossary">hydreliox</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Hydreliox" title="Hydreliox">Hydreliox</a></span></p>
+Deep diving <a href="/wiki/Breathing_gas" title="Breathing gas">breathing gas</a> mixture of hydrogen, helium and oxygen.</dd>
+
+<dt class="glossary" id="hydrox" style="margin-top: 0.4em;"><dfn class="glossary">hydrox</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Hydrox_(breathing_gas)" title="Hydrox (breathing gas)">Hydrox (breathing gas)</a></span></p>
+Deep diving <a href="/wiki/Breathing_gas" title="Breathing gas">breathing gas</a> mixture of hydrogen and oxygen.</dd>
+
+<dt class="glossary" id="hyperbaric_evacuation" style="margin-top: 0.4em;"><dfn class="glossary">hyperbaric evacuation</dfn></dt>
+<dd class="glossary">Evacuation of divers under pressure from a saturation chamber to a hyperbaric rescue craft via a pressurised transfer system.<sup id="cite_ref-IMCA_D_057_1-3" class="reference"><a href="#cite_note-IMCA_D_057-1">&#91;1&#93;</a></sup></dd>
+
+<dt class="glossary" id="hyperbaric_evacuation_system" style="margin-top: 0.4em;"><dfn class="glossary">hyperbaric evacuation system</dfn></dt>
+<dd class="glossary">System for evacuating divers under pressure from a saturation system in an emergency.<sup id="cite_ref-EDTC_2017_8-0" class="reference"><a href="#cite_note-EDTC_2017-8">&#91;8&#93;</a></sup> The whole system set up to provide hyperbaric evacuation, including planning, procedures, equipment used for evacuation, reception facility, contingency plans, possible safe havens and anything else requited for a successful hyperbaric evacuation.<sup id="cite_ref-IMCA_D_057_1-4" class="reference"><a href="#cite_note-IMCA_D_057-1">&#91;1&#93;</a></sup></dd>
+
+<dt class="glossary" id="hyperbaric_lifeboat" style="margin-top: 0.4em;"><dfn class="glossary">hyperbaric lifeboat</dfn></dt>
+<dd class="glossary">A lifeboat with a hyperbaric chamber and life support system built into it for evacuating saturation divers in an emergency.</dd>
+
+<dt class="glossary" id="hyperbaric_rescue_capsule" style="margin-top: 0.4em;"><dfn class="glossary">hyperbaric rescue capsule</dfn></dt>
+<dd class="glossary">A self contained buoyant hyperbaric chamber intended for emergency evacuation of saturation divers under pressure from a platform which has become so dangerous that it is considered safer to put the divers into the sea in the HRC to be picked up by a rescue vessel for transfer to another hyperbaric system for decompression.</dd>
+
+<dt class="glossary" id="hyperbaric_rescue_chamber" style="margin-top: 0.4em;"><dfn class="glossary">hyperbaric rescue chamber</dfn></dt>
+<dd class="glossary">Normally a pressure vessel adapted to function as a means of hyperbaric evacuation with buoyancy chambers and lifting points, but not fitted in a lifeboat hull.<sup id="cite_ref-IMCA_D_057_1-5" class="reference"><a href="#cite_note-IMCA_D_057-1">&#91;1&#93;</a></sup></dd>
+
+<dt class="glossary" id="hyperbaric_evacuation_unit" style="margin-top: 0.4em;"><dfn class="glossary">hyperbaric evacuation unit</dfn></dt>
+<dt class="glossary" id="hyperbaric_rescue_unit" style="margin-top: 0.4em;"><dfn class="glossary">hyperbaric rescue unit</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: "HEU", "HRU"</span></p>
+Generic term for the unit provided to evacuate divers from a saturation system. It may be an <a href="#hRC"><span title="See entry on this page at § HRC" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">HRC</span></a> or a <span title="See entry on this page at § SPHL" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#SPHL" title="Glossary of underwater diving terminology: P–S">SPHL</a></span> or some other suitable pressure vessel.<sup id="cite_ref-IMCA_D_057_1-6" class="reference"><a href="#cite_note-IMCA_D_057-1">&#91;1&#93;</a></sup></dd>
+
+<dt class="glossary" id="hypercapnia" style="margin-top: 0.4em;"><dfn class="glossary">hypercapnia</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Hypercapnia" title="Hypercapnia">Hypercapnia</a></span></p>
+Excessive level of carbon dioxide in the body.</dd>
+
+<dt class="glossary" id="hyperfilter" style="margin-top: 0.4em;"><dfn class="glossary">hyperfilter</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Gas_blending_for_scuba_diving" title="Gas blending for scuba diving">Gas blending for scuba diving#</a></span></p>
+Additional filter to produce air of oxygen compatible quality, usually for partial pressure gas blending. This may be built into the filling system or temporarily connected when required.</dd>
+
+<dt class="glossary" id="hyperoxic_linearity" style="margin-top: 0.4em;"><dfn class="glossary">hyperoxic linearity</dfn></dt>
+<dd class="glossary">Property of an oxygen sensor to produce linear output at partial pressures above the highest calibration point.<sup id="cite_ref-Heinerth_5-2" class="reference"><a href="#cite_note-Heinerth-5">&#91;5&#93;</a></sup></dd>
+
+<dt class="glossary" id="hyperventilation" style="margin-top: 0.4em;"><dfn class="glossary">hyperventilation</dfn></dt>
+<dd class="glossary">1.&#160;&#160;A deliberate <a href="/wiki/Hyperventilation" title="Hyperventilation">deep breathing</a> to reduce blood carbon dioxide level to extend the duration of a <a href="/wiki/Free_diving" class="mw-redirect" title="Free diving">free dive</a>.</dd>
+<dd class="glossary">2.&#160;&#160;<a href="/wiki/Hyperventilation" title="Hyperventilation">Rapid breathing</a> as the body's response to <a href="/wiki/Hypercapnia" title="Hypercapnia">hypercapnia</a>.</dd>
+<dd class="glossary">3.&#160;&#160;Rapid, often shallow breathing, associated with <a href="/wiki/Panic" title="Panic">panic</a>.</dd>
+
+<dt class="glossary" id="hyperventilation-induced_blackout" style="margin-top: 0.4em;"><dfn class="glossary">hyperventilation-induced blackout</dfn></dt>
+<dd class="glossary">See: <span title="See entry on this page at § underwater blackout syndrome" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#underwater_blackout_syndrome" title="Glossary of underwater diving terminology: T–Z">underwater blackout syndrome</a></span></dd>
+
+<dt class="glossary" id="hypocapnia" style="margin-top: 0.4em;"><dfn class="glossary">hypocapnia</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Hypocapnia" title="Hypocapnia">Hypocapnia</a></span></p>
+Abnormally low tissue and blood carbon dioxide concentration.</dd>
+
+<dt class="glossary" id="hypothermia" style="margin-top: 0.4em;"><dfn class="glossary">hypothermia</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Hypothermia" title="Hypothermia">Hypothermia</a></span></p>
+A lowering of core body temperature, usually due to heat loss.</dd>
+
+<dt class="glossary" id="hypoxia" style="margin-top: 0.4em;"><dfn class="glossary">hypoxia</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Hypoxia_(medical)" title="Hypoxia (medical)">Hypoxia (medical)</a></span></p>
+Abnormally low tissue oxygen concentration: Insufficient oxygen in the body to support normal activities or consciousness.</dd>
+
+<dt class="glossary" id="hypoxic_training" style="margin-top: 0.4em;"><dfn class="glossary">hypoxic training</dfn></dt>
+<dd class="glossary">prolonged underwater distance swimming or extended breath-hold intervals.<sup id="cite_ref-Boyd_et_al_2015_9-0" class="reference"><a href="#cite_note-Boyd_et_al_2015-9">&#91;9&#93;</a></sup></dd>
+
+</dl>
+<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=7" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
+<table class="wikitable divingGlossaryToC">
+
+<tbody><tr>
+<td>
+<p>Contents:&#160;<a href="#top">Top</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#A" title="Glossary of underwater diving terminology: A–C">A</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#B" title="Glossary of underwater diving terminology: A–C">B</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#C" title="Glossary of underwater diving terminology: A–C">C</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#D" title="Glossary of underwater diving terminology: D–G">D</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#E" title="Glossary of underwater diving terminology: D–G">E</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#F" title="Glossary of underwater diving terminology: D–G">F</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#G" title="Glossary of underwater diving terminology: D–G">G</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#H" title="Glossary of underwater diving terminology: H–O">H</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#I" title="Glossary of underwater diving terminology: H–O">I</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#J" title="Glossary of underwater diving terminology: H–O">J</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#K" title="Glossary of underwater diving terminology: H–O">K</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#L" title="Glossary of underwater diving terminology: H–O">L</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#M" title="Glossary of underwater diving terminology: H–O">M</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#N" title="Glossary of underwater diving terminology: H–O">N</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#O" title="Glossary of underwater diving terminology: H–O">O</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#P" title="Glossary of underwater diving terminology: P–S">P</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#Q" title="Glossary of underwater diving terminology: P–S">Q</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#R" title="Glossary of underwater diving terminology: P–S">R</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#S" title="Glossary of underwater diving terminology: P–S">S</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#T" title="Glossary of underwater diving terminology: T–Z">T</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#U" title="Glossary of underwater diving terminology: T–Z">U</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#V" title="Glossary of underwater diving terminology: T–Z">V</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#W" title="Glossary of underwater diving terminology: T–Z">W</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#X" title="Glossary of underwater diving terminology: T–Z">X</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#Y" title="Glossary of underwater diving terminology: T–Z">Y</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#Z" title="Glossary of underwater diving terminology: T–Z">Z</a>
+</p>
+</td>
+<td>
+<p><a href="#References">References</a>
+</p>
+</td></tr></tbody></table>
+<dl class="glossary">
+
+<dt class="glossary" id="iaogp" style="margin-top: 0.4em;"><dfn class="glossary">IAOGP</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#international_Association_of_Oil_and_Gas_Producers"><span title="See entry on this page at § International Association of Oil and Gas Producers" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">International Association of Oil and Gas Producers</span></a></span></p></dd>
+<dt class="glossary" id="icd" style="margin-top: 0.4em;"><dfn class="glossary">ICD</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#isobaric_counterdiffusion"><span title="See entry on this page at § isobaric counterdiffusion" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">isobaric counterdiffusion</span></a></span></p></dd>
+<dt class="glossary" id="idrcf" style="margin-top: 0.4em;"><dfn class="glossary">IDRCF</dfn></dt>
+<dt class="glossary" id="idrf" style="margin-top: -0.2em;"><dfn class="glossary">IDRF</dfn></dt>
+<dd class="glossary"><a href="/wiki/International_Diving_Regulators_and_Certifiers_Forum" title="International Diving Regulators and Certifiers Forum">International Diving Regulators and Certifiers Forum</a>, previously International Diving Regulators Forum. A voluntary group of diving regulators and certifying agencies formed to work together toward mutual recognition and to identify and implement best practices in diver training with the object of harmonizing cross border diver training standards outside Europe. Members include Australia, Canada, France, Norway, South Africa and United Kingdom.<sup id="cite_ref-EDTC_2010b_10-0" class="reference"><a href="#cite_note-EDTC_2010b-10">&#91;10&#93;</a></sup></dd>
+
+<dt class="glossary" id="idsa" style="margin-top: 0.4em;"><dfn class="glossary">IDSA</dfn></dt>
+<dd class="glossary"><a href="/wiki/International_Diving_Schools_Association" title="International Diving Schools Association">International Diving Schools Association</a>: Formed with the primary purpose of developing common internationional diving standards for all occupational divers, Offshore, Inshore and Inland, and specialist related non-diving qualifications e.g. Supervisor, DMT and LST.<sup id="cite_ref-IDSA_11-0" class="reference"><a href="#cite_note-IDSA-11">&#91;11&#93;</a></sup></dd>
+
+<dt class="glossary" id="imca" style="margin-top: 0.4em;"><dfn class="glossary">IMCA</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/International_Marine_Contractors_Association" title="International Marine Contractors Association">International Marine Contractors Association</a>.</span></p>
+International trade association for the marine contracting industry.</dd>
+
+<dt class="glossary" id="inert_gas" style="margin-top: 0.4em;"><dfn class="glossary">inert gas</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Decompression_theory#Inert_gas_uptake_(Ingassing)" title="Decompression theory">Decompression theory#Inert gas uptake (Ingassing)</a></span></p>
+A gas which is not metabolically active, used to dilute the breathing gas.</dd>
+
+<dt class="glossary" id="ingassing" style="margin-top: 0.4em;"><dfn class="glossary">ingassing</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Decompression_theory#Inert_gas_uptake_(Ingassing)" title="Decompression theory">Decompression theory#Inert gas uptake (Ingassing)</a></span></p>
+Inert gas uptake in body tissues during a dive or other hyperbaric exposure.</dd>
+
+<dt class="glossary" id="inherent_unsaturation" style="margin-top: 0.4em;"><dfn class="glossary">inherent unsaturation</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Decompression_theory#Inherent_unsaturation" title="Decompression theory">Decompression theory#Inherent unsaturation</a></span></p>
+Metabolic reduction of total gas pressure in the tissues.</dd>
+
+<dt class="glossary" id="inshore_diver" style="margin-top: 0.4em;"><dfn class="glossary">inshore diver</dfn></dt>
+<dd class="glossary">Colloquial term for a diver who works on inland dive sites or coastal waters not associated with the oil and gas industry. Also referred to as "civils" as much of this work is connected with civil engineering works.<sup id="cite_ref-Bevan_2005_12-0" class="reference"><a href="#cite_note-Bevan_2005-12">&#91;12&#93;</a></sup></dd>
+
+<dt class="glossary" id="integrated_weight_system" style="margin-top: 0.4em;"><dfn class="glossary">integrated weight system</dfn></dt>
+<dd class="glossary">Any system for carrying dive weights on the buoyancy compensator or diving safety harness, avoiding the use of a separate weight harness or weightbelt.</dd>
+
+<dt class="glossary" id="internal_condition_of_cylinder" style="margin-top: 0.4em;"><dfn class="glossary">internal condition of cylinder</dfn></dt>
+<dd class="glossary">The state of the internal surface of a cylinder regarding corrosion, contamination and cracking.</dd>
+
+<dt class="glossary" id="interstitial_emphysema" style="margin-top: 0.4em;"><dfn class="glossary">interstitial emphysema</dfn></dt>
+<dd class="glossary">Gas trapped in the spaces between organs after lung <a href="/wiki/Barotrauma" title="Barotrauma">barotrauma</a>.</dd>
+
+<dt class="glossary" id="international_association_of_oil_and_gas_producers" style="margin-top: 0.4em;"><dfn class="glossary">International Association of Oil and Gas Producers</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/International_Association_of_Oil_and_Gas_Producers" class="mw-redirect" title="International Association of Oil and Gas Producers">International Association of Oil and Gas Producers</a></span></p>
+The international forum of the oil and gas producing industry.</dd>
+
+<dt class="glossary" id="inverter_line" style="margin-top: 0.4em;"><dfn class="glossary">inverter line</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <span title="See entry on this page at § tripping line" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#tripping_line" title="Glossary of underwater diving terminology: T–Z">tripping line</a></span></span></p></dd>
+<dt class="glossary" id="in-water_recompression" style="margin-top: 0.4em;"><dfn class="glossary">in-water recompression</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/In-water_recompression" title="In-water recompression">In-water recompression</a>, <a href="/wiki/Hyperbaric_treatment_schedules#In-water_recompression_schedules" title="Hyperbaric treatment schedules">Hyperbaric treatment schedules#In-water recompression schedules</a></span></p>
+Recompression of a diver by returning to a specified depth in the water, followed by decompression on a specified gas, commonly oxygen, as treatment for decompression sickness or as prophylaxis for incomplete or missed decompression after a dive.</dd>
+
+<dt class="glossary" id="ip" style="margin-top: 0.4em;"><dfn class="glossary">IP</dfn></dt>
+<dd class="glossary">Intermediate Pressure, or Interstage Pressure. The reduced pressure between the first and second stages of a diving regulator. Also referred to as LP (Low Pressure) in this context.</dd>
+
+<dt class="glossary" id="isobaric_blackout" style="margin-top: 0.4em;"><dfn class="glossary">isobaric blackout</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <span title="See entry on this page at § constant depth blackout" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#constant_depth_blackout" title="Glossary of underwater diving terminology: A–C">constant depth blackout</a></span></span></p></dd>
+<dt class="glossary" id="isobaric_counterdiffusion" style="margin-top: 0.4em;"><dfn class="glossary">isobaric counterdiffusion</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Isobaric_counterdiffusion" title="Isobaric counterdiffusion">Isobaric counterdiffusion</a></span></p>
+The diffusion of gases in opposite directions caused by a change in the composition of the external ambient gas or breathing gas without change in the ambient pressure.</dd>
+
+<dt class="glossary" id="isolation_manifold" style="margin-top: 0.4em;"><dfn class="glossary">isolation manifold</dfn></dt>
+<dd class="glossary">Connection between two scuba cylinders which when open allows free flow of gas in both directions between the cylinders, but has an isolation valve to block this flow.</dd>
+
+<dt class="glossary" id="isolation_valve" style="margin-top: 0.4em;"><dfn class="glossary">isolation valve</dfn></dt>
+<dd class="glossary">valve in an isolation manifold (q.v.) used to close the gas passage through the manifold and isolate the contents of the two cylinders. Used to prevent a leak on one cylinder from causing the other cylinder to also lose gas.</dd>
+
+</dl>
+<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=8" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
+<table class="wikitable divingGlossaryToC">
+
+<tbody><tr>
+<td>
+<p>Contents:&#160;<a href="#top">Top</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#A" title="Glossary of underwater diving terminology: A–C">A</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#B" title="Glossary of underwater diving terminology: A–C">B</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#C" title="Glossary of underwater diving terminology: A–C">C</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#D" title="Glossary of underwater diving terminology: D–G">D</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#E" title="Glossary of underwater diving terminology: D–G">E</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#F" title="Glossary of underwater diving terminology: D–G">F</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#G" title="Glossary of underwater diving terminology: D–G">G</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#H" title="Glossary of underwater diving terminology: H–O">H</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#I" title="Glossary of underwater diving terminology: H–O">I</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#J" title="Glossary of underwater diving terminology: H–O">J</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#K" title="Glossary of underwater diving terminology: H–O">K</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#L" title="Glossary of underwater diving terminology: H–O">L</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#M" title="Glossary of underwater diving terminology: H–O">M</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#N" title="Glossary of underwater diving terminology: H–O">N</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#O" title="Glossary of underwater diving terminology: H–O">O</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#P" title="Glossary of underwater diving terminology: P–S">P</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#Q" title="Glossary of underwater diving terminology: P–S">Q</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#R" title="Glossary of underwater diving terminology: P–S">R</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#S" title="Glossary of underwater diving terminology: P–S">S</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#T" title="Glossary of underwater diving terminology: T–Z">T</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#U" title="Glossary of underwater diving terminology: T–Z">U</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#V" title="Glossary of underwater diving terminology: T–Z">V</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#W" title="Glossary of underwater diving terminology: T–Z">W</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#X" title="Glossary of underwater diving terminology: T–Z">X</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#Y" title="Glossary of underwater diving terminology: T–Z">Y</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#Z" title="Glossary of underwater diving terminology: T–Z">Z</a>
+</p>
+</td>
+<td>
+<p><a href="#References">References</a>
+</p>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Ja">Ja</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=9" title="Edit section: Ja">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="jackstay" style="margin-top: 0.4em;"><dfn class="glossary">jackstay</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Jackstay#Diving_jackstay" title="Jackstay">Jackstay#Diving jackstay</a></span></p>
+A line secured at both ends to serve as a support<sup id="cite_ref-Oxford_Jackstay_13-0" class="reference"><a href="#cite_note-Oxford_Jackstay-13">&#91;13&#93;</a></sup> or guide.</dd>
+
+<dt class="glossary" id="jackstay_search" style="margin-top: 0.4em;"><dfn class="glossary">jackstay search</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See:<a href="/wiki/Underwater_searches#Jackstay_search" title="Underwater searches">Underwater searches#Jackstay search</a></span></p>
+Underwater search techniques using one or more jackstays to guide the searcher.</dd>
+
+<dt class="glossary" id="jack-up_rig" style="margin-top: 0.4em;"><dfn class="glossary">jack-up rig</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Jackup_rig" title="Jackup rig">Jackup rig</a></span></p>
+A type of mobile platform that consists of a buoyant hull fitted with a number of movable legs, capable of raising its hull over the surface of sea. The buoyant hull enables transportation of the unit and all attached machinery to a desired location. Once on location the hull is raised to the required elevation above the sea surface on its legs supported by the sea bed.</dd>
+
+<dt class="glossary" id="j-cylinder" style="margin-top: 0.4em;"><dfn class="glossary">J-cylinder</dfn></dt>
+<dd class="glossary">Bulk gas storage cylinder with internal volume 50 litres.</dd>
+
+</dl>
+<h2><span class="mw-headline" id="Je">Je</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=10" title="Edit section: Je">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="jersey_upline" style="margin-top: 0.4em;"><dfn class="glossary">Jersey upline</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <span title="See entry on this page at § upline" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#upline" title="Glossary of underwater diving terminology: T–Z">upline</a></span></span></p></dd>
+</dl>
+<h2><span class="mw-headline" id="Ji">Ji</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=11" title="Edit section: Ji">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="jic_fitting" style="margin-top: 0.4em;"><dfn class="glossary">JIC fitting</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/JIC_fitting" title="JIC fitting">JIC fitting</a></span></p>
+A type of pipe and hose fitting with a 37-degree flare seating surface. Commonly used in umbilical hose connections.</dd>
+
+<dt class="glossary" id="jim_suit" style="margin-top: 0.4em;"><dfn class="glossary">JIM suit</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/JIM_suit" title="JIM suit">JIM suit</a></span></p>
+An atmospheric diving suit manufactured by <a href="/w/index.php?title=Underwater_Marine_Equipment&amp;action=edit&amp;redlink=1" class="new" title="Underwater Marine Equipment (page does not exist)">Underwater Marine Equipment</a> Limited.</dd>
+
+</dl>
+<h2><span class="mw-headline" id="Jo">Jo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=12" title="Edit section: Jo">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="jocking_strap" style="margin-top: 0.4em;"><dfn class="glossary">jocking strap</dfn></dt>
+<dd class="glossary">webbing strap system used with diving helmets to hold the helmet assembly down on the diver to prevent buoyancy lifting it when underwater.</dd>
+
+<dt class="glossary" id="jonline" style="margin-top: 0.4em;"><dfn class="glossary">Jonline</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Jonline" class="mw-redirect" title="Jonline">Jonline</a></span></p>
+A short line used to connect to a shotline or anchor line, allowing the diver to move a short horizontal distance away to decompress. The line helps compensate for vertical movement in the anchor line or shot line due to waves.<sup id="cite_ref-shipwreckexpo_14-0" class="reference"><a href="#cite_note-shipwreckexpo-14">&#91;14&#93;</a></sup></dd>
+
+<dt class="glossary" id="job_safety_analysis" style="margin-top: 0.4em;"><dfn class="glossary">job safety analysis</dfn></dt>
+<dt class="glossary" id="jsa" style="margin-top: -0.2em;"><dfn class="glossary">JSA</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Job_safety_analysis" title="Job safety analysis">Job safety analysis</a></span></p>
+A procedure to integrate health and safety principles and practices into a particular task or job. Each basic step of the job analysed to identify potential hazards and controls for each hazard.</dd>
+
+<dt class="glossary" id="j-search" style="margin-top: 0.4em;"><dfn class="glossary">J-search</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Underwater_searches#Variations_on_the_jackstay_search" title="Underwater searches">Underwater searches#Variations on the jackstay search</a></span></p>
+A variation on the movable jackstay search suitable for a single diver.</dd>
+
+</dl>
+<h2><span class="mw-headline" id="Je_2">Je</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=13" title="Edit section: Je">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="jump" style="margin-top: 0.4em;"><dfn class="glossary">jump</dfn></dt>
+<dd class="glossary">A path from a main guideline to another which is not in contact</dd>
+
+<dt class="glossary" id="jump_camera" style="margin-top: 0.4em;"><dfn class="glossary">jump camera</dfn></dt>
+<dd class="glossary">A camera mounted on a frame, which when lowered to the bottom of a body of water, takes a photograph, usually of the bottom under the camera. The frame constrains the camera to a fixed camera to subject distance, resulting in photographs of uniformly sized areas of bottom, equivalent to <a href="/wiki/Quadrat" title="Quadrat">quadrats</a>.</dd>
+
+<dt class="glossary" id="jump_jacket" style="margin-top: 0.4em;"><dfn class="glossary">Jump jacket</dfn></dt>
+<dd class="glossary">A <a href="/wiki/Surface-supplied_diving#Harness_with_buoyancy_compensation" title="Surface-supplied diving">harness</a> with integral buoyancy jacket specifically designed for commercial diving work with helmets and bells.<sup id="cite_ref-Jump_Jacket_15-0" class="reference"><a href="#cite_note-Jump_Jacket-15">&#91;15&#93;</a></sup></dd>
+
+<dt class="glossary" id="jump_line" style="margin-top: 0.4em;"><dfn class="glossary">jump line</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Cave_diving" title="Cave diving">Cave diving</a></span></p>
+A short <span title="See entry on this page at § " class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">error: non-alphabetic term</span> used to connect between two permanent lines that are not in contact. May also be used to search for the other end of a break in a cave line and repair the break</dd>
+
+<dt class="glossary" id="jump_reel" style="margin-top: 0.4em;"><dfn class="glossary">jump reel</dfn></dt>
+<dt class="glossary" id="jump_spool" style="margin-top: -0.2em;"><dfn class="glossary">jump spool</dfn></dt>
+<dd class="glossary">A reel or spool with a relatively short line intended to be used as a jump line (q.v.).</dd>
+
+<dt class="glossary" id="j-valve" style="margin-top: 0.4em;"><dfn class="glossary">J-valve</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Scuba_cylinder_valve#Reserve_valves" title="Scuba cylinder valve">Scuba cylinder valve#Reserve valves</a></span></p>
+Scuba cylinder valve with lever operated reserve mechanism.<sup id="cite_ref-Basic_Scuba_16-0" class="reference"><a href="#cite_note-Basic_Scuba-16">&#91;16&#93;</a></sup></dd>
+
+</dl>
+<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=14" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
+<table class="wikitable divingGlossaryToC">
+
+<tbody><tr>
+<td>
+<p>Contents:&#160;<a href="#top">Top</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#A" title="Glossary of underwater diving terminology: A–C">A</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#B" title="Glossary of underwater diving terminology: A–C">B</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#C" title="Glossary of underwater diving terminology: A–C">C</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#D" title="Glossary of underwater diving terminology: D–G">D</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#E" title="Glossary of underwater diving terminology: D–G">E</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#F" title="Glossary of underwater diving terminology: D–G">F</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#G" title="Glossary of underwater diving terminology: D–G">G</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#H" title="Glossary of underwater diving terminology: H–O">H</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#I" title="Glossary of underwater diving terminology: H–O">I</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#J" title="Glossary of underwater diving terminology: H–O">J</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#K" title="Glossary of underwater diving terminology: H–O">K</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#L" title="Glossary of underwater diving terminology: H–O">L</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#M" title="Glossary of underwater diving terminology: H–O">M</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#N" title="Glossary of underwater diving terminology: H–O">N</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#O" title="Glossary of underwater diving terminology: H–O">O</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#P" title="Glossary of underwater diving terminology: P–S">P</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#Q" title="Glossary of underwater diving terminology: P–S">Q</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#R" title="Glossary of underwater diving terminology: P–S">R</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#S" title="Glossary of underwater diving terminology: P–S">S</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#T" title="Glossary of underwater diving terminology: T–Z">T</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#U" title="Glossary of underwater diving terminology: T–Z">U</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#V" title="Glossary of underwater diving terminology: T–Z">V</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#W" title="Glossary of underwater diving terminology: T–Z">W</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#X" title="Glossary of underwater diving terminology: T–Z">X</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#Y" title="Glossary of underwater diving terminology: T–Z">Y</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#Z" title="Glossary of underwater diving terminology: T–Z">Z</a>
+</p>
+</td>
+<td>
+<p><a href="#References">References</a>
+</p>
+</td></tr></tbody></table>
+<dl class="glossary">
+
+<dt class="glossary" id="kayak_diving" style="margin-top: 0.4em;"><dfn class="glossary">kayak diving</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Kayak_diving" class="mw-redirect" title="Kayak diving">Kayak diving</a></span></p>
+Diving from a special purpose kayak used to get to the site where the distance from a suitable entry and exit point is inconvenient for shore diving.</dd>
+
+<dt class="glossary" id="k-cylinder" style="margin-top: 0.4em;"><dfn class="glossary">K-cylinder</dfn></dt>
+<dd class="glossary">Bulk high pressure gas storage cylinder size designation (approximately 50 litres internal volume)</dd>
+
+<dt class="glossary" id="kelly" style="margin-top: 0.4em;"><dfn class="glossary">Kelly</dfn></dt>
+<dt class="glossary" id="kelly_tube" style="margin-top: -0.2em;"><dfn class="glossary">Kelly tube</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#tube"><span title="See entry on this page at § tube" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tube</span></a></span></p></dd>
+<dt class="glossary" id="k-valve" style="margin-top: 0.4em;"><dfn class="glossary">K-valve</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Scuba_cylinder_valve#Plain_valves" title="Scuba cylinder valve">Scuba cylinder valve#Plain valves</a></span></p>
+Scuba cylinder valve without reserve mechanism.</dd>
+
+</dl>
+<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=15" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
+<table class="wikitable divingGlossaryToC">
+
+<tbody><tr>
+<td>
+<p>Contents:&#160;<a href="#top">Top</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#A" title="Glossary of underwater diving terminology: A–C">A</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#B" title="Glossary of underwater diving terminology: A–C">B</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#C" title="Glossary of underwater diving terminology: A–C">C</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#D" title="Glossary of underwater diving terminology: D–G">D</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#E" title="Glossary of underwater diving terminology: D–G">E</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#F" title="Glossary of underwater diving terminology: D–G">F</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#G" title="Glossary of underwater diving terminology: D–G">G</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#H" title="Glossary of underwater diving terminology: H–O">H</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#I" title="Glossary of underwater diving terminology: H–O">I</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#J" title="Glossary of underwater diving terminology: H–O">J</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#K" title="Glossary of underwater diving terminology: H–O">K</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#L" title="Glossary of underwater diving terminology: H–O">L</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#M" title="Glossary of underwater diving terminology: H–O">M</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#N" title="Glossary of underwater diving terminology: H–O">N</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#O" title="Glossary of underwater diving terminology: H–O">O</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#P" title="Glossary of underwater diving terminology: P–S">P</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#Q" title="Glossary of underwater diving terminology: P–S">Q</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#R" title="Glossary of underwater diving terminology: P–S">R</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#S" title="Glossary of underwater diving terminology: P–S">S</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#T" title="Glossary of underwater diving terminology: T–Z">T</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#U" title="Glossary of underwater diving terminology: T–Z">U</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#V" title="Glossary of underwater diving terminology: T–Z">V</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#W" title="Glossary of underwater diving terminology: T–Z">W</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#X" title="Glossary of underwater diving terminology: T–Z">X</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#Y" title="Glossary of underwater diving terminology: T–Z">Y</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#Z" title="Glossary of underwater diving terminology: T–Z">Z</a>
+</p>
+</td>
+<td>
+<p><a href="#References">References</a>
+</p>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="La">La</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=16" title="Edit section: La">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="lanyard" style="margin-top: 0.4em;"><dfn class="glossary">lanyard</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Lanyard" title="Lanyard">Lanyard</a></span></p>
+A piece of cordage used to secure or lower things; usually it is used where there is a risk of losing the object</dd>
+
+<dt class="glossary" id="lars" style="margin-top: 0.4em;"><dfn class="glossary">LARS</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#launch_and_Recovery_System"><span title="See entry on this page at § Launch and Recovery System" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Launch and Recovery System</span></a></span></p></dd>
+<dt class="glossary" id="laryngospasm" style="margin-top: 0.4em;"><dfn class="glossary">laryngospasm</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Laryngospasm" title="Laryngospasm">Laryngospasm</a></span></p>
+An uncontrolled or involuntary muscular contraction (spasm) of the laryngeal cords which causes a partial blocking of breathing in, while breathing out remains easier.</dd>
+
+<dt class="glossary" id="latent_hypoxia" style="margin-top: 0.4em;"><dfn class="glossary">latent hypoxia</dfn></dt>
+<dd class="glossary">While freediving, an arterial oxygen partial pressure which is sufficient to sustain consciousness at depth, but when ascending drops to hyoxic levels due to the reduction of ambient pressure, associated with <a href="/wiki/Freediving_blackout#Blackout_on_ascent" title="Freediving blackout">ascent blackout</a>.</dd>
+
+<dt class="glossary" id="launch_and_recovery_system" style="margin-top: 0.4em;"><dfn class="glossary">launch and recovery system</dfn></dt>
+<dd class="glossary">Mechanised system for lowering a diving bell, diving stage, submersible or ROV from a vessel, offshore platform, dockside or other platform, and lifting it back on board.</dd>
+
+<dt class="glossary" id="lay_barge" style="margin-top: 0.4em;"><dfn class="glossary">lay barge</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: <b>pipelay barge</b></span></p>
+<p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Pipe-laying_ship" title="Pipe-laying ship">Pipe-laying ship</a> and <a href="/wiki/Submarine_pipeline" title="Submarine pipeline">Submarine pipeline</a></span></p>
+Barge on which pipeline sections are assembled, welded and laid on the seabed as the barge is moved forward.<sup id="cite_ref-Bevan_2005_12-1" class="reference"><a href="#cite_note-Bevan_2005-12">&#91;12&#93;</a></sup></dd>
+
+<dt class="glossary" id="lay_line" style="margin-top: 0.4em;"><dfn class="glossary">lay line</dfn></dt>
+<dt class="glossary" id="laying_line" style="margin-top: 0.4em;"><dfn class="glossary">laying line</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Cave_diving#Line_management" title="Cave diving">Cave diving#Line management</a></span></p>
+To run line (unreel under light tension while advancing) and <a href="#placement"><span title="See entry on this page at § placement" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">place it</span></a></dd>
+
+<dt class="glossary" id="lazy_shot" style="margin-top: 0.4em;"><dfn class="glossary">lazy shot</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Diving_shot#Lazy_shot" title="Diving shot">Diving shot#Lazy shot</a></span></p>
+A <span title="See entry on this page at § shot line" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#shot_line" title="Glossary of underwater diving terminology: P–S">shot line</a></span> (q.v.) which does not reach the bottom</dd>
+
+<dt class="glossary" id="lds" style="margin-top: 0.4em;"><dfn class="glossary">LDS</dfn></dt>
+<dd class="glossary">Local dive shop. A retailer of recreational diving equipment, which may also sell cylinder fills, service equipment, provide training or book or organise recreational dives for customers.</dd>
+
+</dl>
+<h2><span class="mw-headline" id="Le">Le</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=17" title="Edit section: Le">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="led" style="margin-top: 0.4em;"><dfn class="glossary">LED</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Light_emitting_diode" class="mw-redirect" title="Light emitting diode">Light emitting diode</a></span></p> 
+A semiconductor device for producing light from an electrical current commonly used in dive lights.</dd>
+
+<dt class="glossary" id="lens_port" style="margin-top: 0.4em;"><dfn class="glossary">lens port</dfn></dt> 
+<dd class="glossary">Transparent window on an <a href="/wiki/Underwater_camera_housing" class="mw-redirect" title="Underwater camera housing">underwater camera housing</a> through which light reaches the lens.</dd>
+
+</dl>
+<h2><span class="mw-headline" id="Li">Li</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=18" title="Edit section: Li">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="lid" style="margin-top: 0.4em;"><dfn class="glossary">LID</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#low_impact_diving"><span title="See entry on this page at § low impact diving" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">low impact diving</span></a></span></p></dd>
+<dt class="glossary" id="lifeline" style="margin-top: 0.4em;"><dfn class="glossary">lifeline</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Lifeline_(diving)" class="mw-redirect" title="Lifeline (diving)">Lifeline (diving)</a></span></p>
+A line connected securely to the diver at one end and anchored at the other end at the diving control point, which is handled by a line tender, and is used to <a href="/wiki/Diver_communications#Rope_signals" title="Diver communications">communicate</a> with the diver and provide a means of finding the diver for a surface standby diver, and for assisting the diver to the surface and back to the control point if necessary.</dd>
+
+<dt class="glossary" id="life_support" style="margin-top: 0.4em;"><dfn class="glossary">life support</dfn></dt>
+<dt class="glossary" id="life_support_system" style="margin-top: -0.2em;"><dfn class="glossary">life support system</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Life-support_system#Underwater_and_saturation_diving_habitats" title="Life-support system">Life-support system#Underwater and saturation diving habitats</a></span></p>
+Equipment vital to the short term survival of the diver. Most notably the <a href="/wiki/Breathing_gas" title="Breathing gas">breathing gas</a> supply, and for <a href="/wiki/Saturation_diving" title="Saturation diving">saturation diving</a>, equipment for providing a correctly pressurised environment. In some cases thermoregulatory equipment is also considered life support, and in saturation diving, all of the peripheral systems essential to maintaining a habitable saturation system.</dd>
+
+<dt class="glossary" id="life_support_package" style="margin-top: 0.4em;"><dfn class="glossary">life support package (LSP)</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: "fly-away package"</span></p>
+A collection of equipment and supplies kept in a suitable location such that when a hyperbaric rescue chamber or self-propelled hyperbaric lifeboat arrives at the safe haven it is available to support or complete decompression by using the LSP components to maintain the decompression environment by way of power, gas mixtures, heating and cooling.<sup id="cite_ref-IMCA_D_057_1-7" class="reference"><a href="#cite_note-IMCA_D_057-1">&#91;1&#93;</a></sup></dd>
+
+<dt class="glossary" id="life_support_supervisor" style="margin-top: 0.4em;"><dfn class="glossary">life support supervisor</dfn></dt>
+<dd class="glossary">A senior life support technician (q.v.) appointed by the diving contractor to supervise the operation of saturation life-support systems.<sup id="cite_ref-EDTC_2017_8-1" class="reference"><a href="#cite_note-EDTC_2017-8">&#91;8&#93;</a></sup></dd>
+
+<dt class="glossary" id="life_support_technician" style="margin-top: 0.4em;"><dfn class="glossary">life support technician</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: "LST"</span></p>
+A person who operates and maintains the life support systems of a saturation diving system.</dd>
+
+<dt class="glossary" id="lift_bag" style="margin-top: 0.4em;"><dfn class="glossary">lift bag</dfn></dt>
+<dt class="glossary" id="lifting_bag" style="margin-top: -0.2em;"><dfn class="glossary">lifting bag</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Lifting_bag" title="Lifting bag">Lifting bag</a></span></p>
+A robust and air-tight bag with straps, which is used to lift heavy objects underwater by means of the bag's buoyancy when filled with air.</dd>
+
+<dt class="glossary" id="light" style="margin-top: 0.4em;"><dfn class="glossary">light</dfn></dt>
+<dd class="glossary">Alternative term for a <span title="See entry on this page at § viewport" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#viewport" title="Glossary of underwater diving terminology: T–Z">viewport</a></span> of a <span title="See entry on this page at § standard diving helmet" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#standard_diving_helmet" title="Glossary of underwater diving terminology: P–S">standard diving helmet</a></span>.</dd>
+
+<dt class="glossary" id="light_head" style="margin-top: 0.4em;"><dfn class="glossary">light head</dfn></dt>
+<dd class="glossary">The part of a <span title="See entry on this page at § canister light" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#canister_light" title="Glossary of underwater diving terminology: A–C">canister light</a></span> (q.v.) which emits light, and is held in the hand or mounted on the helmet.</dd>
+
+<dt class="glossary" id="lightweight_helmet" style="margin-top: 0.4em;"><dfn class="glossary">lightweight helmet</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Diving_helmet#Lightweight_demand_helmets" title="Diving helmet">Diving helmet#Lightweight demand helmets</a></span></p>
+Low volume, close fitting diving helmet, usually with demand valve. Neutrally buoyant, and moves with the diver's head.</dd>
+
+<dt class="glossary" id="line_marker" style="margin-top: 0.4em;"><dfn class="glossary">line marker</dfn></dt>
+<dd class="glossary"><a href="/wiki/Line_arrows" class="mw-redirect" title="Line arrows">Line arrows</a>, <span title="See entry on this page at § cookies" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#cookies" title="Glossary of underwater diving terminology: A–C">cookies</a></span> and sometimes clothes pegs. Tags used to indicate the direction to an exit, midway point between exits, jumps and personal markers to identify divers on a guide line in an <a href="#overhead_environment"><span title="See entry on this page at § overhead environment" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">overhead environment</span></a>.</dd>
+
+<dt class="glossary" id="line_tender" style="margin-top: 0.4em;"><dfn class="glossary">line tender</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <span title="See entry on this page at § diver&#39;s attendant" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#diver&#39;s_attendant" title="Glossary of underwater diving terminology: D–G">diver's attendant</a></span></span></p></dd>
+<dt class="glossary" id="line_trap" style="margin-top: 0.4em;"><dfn class="glossary">line trap</dfn></dt>
+<dd class="glossary">Narrow gap where the guide line passes but divers can not get through.<sup id="cite_ref-Cave_diving_terms_2-2" class="reference"><a href="#cite_note-Cave_diving_terms-2">&#91;2&#93;</a></sup></dd>
+
+<dt class="glossary" id="lipid_pneumonia" style="margin-top: 0.4em;"><dfn class="glossary">lipid pneumonia</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Lipid_pneumonia" title="Lipid pneumonia">Lipid pneumonia</a></span></p>
+A lung inflammation (pneumonia) that develops when lipids enter the bronchial tree</dd>
+
+<dt class="glossary" id="live-aboard" style="margin-top: 0.4em;"><dfn class="glossary">live-aboard</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Liveaboard" title="Liveaboard">Liveaboard</a></span></p>
+A large boat which provides transport, accommodation and services for vacationing recreational divers</dd>
+
+<dt class="glossary" id="live-boating" style="margin-top: 0.4em;"><dfn class="glossary">live-boating</dfn></dt>
+<dd class="glossary">1.&#160;&#160;Diving from a boat which is under way (not moored). The major implication is that the engines will be running and propellers or thrusters may be engaged while divers are in the water, a significant hazard.</dd>
+<dd class="glossary">2.&#160;&#160;(offshore diving) Diving from a vessel underway, making way, but not using dynamic positioning. In offshore diving, diving from a DPV is not considered live-boating.<sup id="cite_ref-IMCA_D_057_1-8" class="reference"><a href="#cite_note-IMCA_D_057-1">&#91;1&#93;</a></sup></dd>
+
+</dl>
+<h2><span class="mw-headline" id="Lo">Lo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=19" title="Edit section: Lo">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="lock" style="margin-top: 0.4em;"><dfn class="glossary">lock</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: "air-lock", "airlock" and "air lock"</span></p>
+<p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article <a href="/wiki/Airlock" title="Airlock">Airlock</a></span></p>
+Compartment of a hyperbaric habitat or chamber which can be entered through two or more openings which can be closed and sealed, and the pressure adjusted relative to the adjacent chambers. Used to transfer personnel or equipment between areas of different pressure.</dd>
+
+<dt class="glossary" id="lock-in" style="margin-top: 0.4em;"><dfn class="glossary">lock-in</dfn></dt>
+<dd class="glossary">Enter a pressurised environment through an <a href="/wiki/Airlock" title="Airlock">airlock</a></dd>
+
+<dt class="glossary" id="lock-off" style="margin-top: 0.4em;"><dfn class="glossary">lock-off</dfn></dt>
+<dd class="glossary">Disconnect a mobile hyperbaric chamber from another hyperbaric chamber after sealing the doors between them and venting the connection space.</dd>
+
+<dt class="glossary" id="lock-off_time" style="margin-top: 0.4em;"><dfn class="glossary">lock-off time</dfn></dt>
+<dd class="glossary">The time at which a diving bell under pressure is locked off (disconnected) from the compression chamber(s) on deck.<sup id="cite_ref-IMCA_D_057_1-9" class="reference"><a href="#cite_note-IMCA_D_057-1">&#91;1&#93;</a></sup></dd>
+
+<dt class="glossary" id="lock-on" style="margin-top: 0.4em;"><dfn class="glossary">lock-on</dfn></dt>
+<dd class="glossary">Connect a mobile hyperbaric chamber to another hyperbaric chamber so that the pressures can be equalised to allow <a href="/wiki/Transfer_under_pressure" class="mw-redirect" title="Transfer under pressure">transfer under pressure</a> between them.</dd>
+
+<dt class="glossary" id="lock-on_time" style="margin-top: 0.4em;"><dfn class="glossary">Lock-on time</dfn></dt>
+<dd class="glossary">The time at which a diving bell under pressure is locked on (reconnected) ready for equalisation to the compression chamber(s) on deck.<sup id="cite_ref-IMCA_D_057_1-10" class="reference"><a href="#cite_note-IMCA_D_057-1">&#91;1&#93;</a></sup></dd>
+
+<dt class="glossary" id="lock-out" style="margin-top: 0.4em;"><dfn class="glossary">lock-out</dfn></dt>
+<dd class="glossary">Exit from a pressurised environment through an air-lock</dd>
+
+<dt class="glossary" id="lockout" style="margin-top: 0.4em;"><dfn class="glossary">lockout</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Lockout%E2%80%93tagout" title="Lockout–tagout">Lockout–tagout</a></span></p>
+Safety procedure when working on a hazardous energy source.<sup id="cite_ref-OSHA_Lockout_17-0" class="reference"><a href="#cite_note-OSHA_Lockout-17">&#91;17&#93;</a></sup></dd>
+
+<dt class="glossary" id="lockout_mode" style="margin-top: 0.4em;"><dfn class="glossary">lockout mode</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Dive_computer#Lockout_mode" title="Dive computer">Dive computer#Lockout mode</a></span></p> 
+Factory set function of some dive computers which disables the computer from decompression calculation after a violation of a factory set limit for depth, decompression ceiling or other violation of approved operating range for a period sufficient for tissues to fully desaturate if the diver survives uninjured. Some models will lockout immediately, usually to gauge mode which provides depth and time data but no decompression information, leaving the diver without some safety-critical information, others will continue to provide the diver with best estimate decompression information until the end of the dive.</dd>
+
+<dt class="glossary" id="log_book" style="margin-top: 0.4em;"><dfn class="glossary">log book</dfn></dt>
+<dd class="glossary">Record of dives kept as proof of experience. Optional for recreational divers, but legally required for professional divers in many jurisdictions.</dd>
+
+<dt class="glossary" id="long_hose" style="margin-top: 0.4em;"><dfn class="glossary">long hose</dfn></dt>
+<dd class="glossary">5 ft to 7 ft interstage hose used on one of the regulators used by cave and other technical divers, which allows gas sharing through narrow spaces where the divers must pass through in single file.</dd>
+
+<dt class="glossary" id="longshore_current" style="margin-top: 0.4em;"><dfn class="glossary">longshore current</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Longshore_current" class="mw-redirect" title="Longshore current">Longshore current</a></span></p>
+Mass transport of water along a shoreline, often due to wave action at an angle to the shoreline.</dd>
+
+<dt class="glossary" id="loop" style="margin-top: 0.4em;"><dfn class="glossary">loop</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: "breathing loop"</span></p>
+<p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article <a href="/wiki/Rebreather#Concentric_bellows_counterlungs" title="Rebreather">Rebreather#Concentric bellows counterlungs</a></span></p>
+The circuit in a rebreather through which the breathing gas passes during a breathing cycle.</dd>
+
+<dt class="glossary" id="loop_mix" style="margin-top: 0.4em;"><dfn class="glossary">loop mix</dfn></dt>
+<dt class="glossary" id="loop_mixture" style="margin-top: -0.2em;"><dfn class="glossary">loop mixture</dfn></dt> 
+<dd class="glossary">1.&#160;&#160;The breathing gas in the loop of a rebreather.</dd> 
+<dd class="glossary">2.&#160;&#160;Composition of the breathing gas in the loop of a rebreather, usually after passing through the scrubber, where it is analysed for oxygen partial pressure.</dd>
+
+<dt class="glossary" id="loop_volume" style="margin-top: 0.4em;"><dfn class="glossary">loop volume</dfn></dt>
+<dd class="glossary">Volume of the breathing loop of a rebreather.</dd>
+
+<dt class="glossary" id="loop_vent_valve" style="margin-top: 0.4em;"><dfn class="glossary">loop vent valve</dfn></dt>
+<dd class="glossary">An over-pressure relief valve in a rebreather loop.<sup id="cite_ref-Heinerth_5-3" class="reference"><a href="#cite_note-Heinerth-5">&#91;5&#93;</a></sup></dd>
+
+<dt class="glossary" id="lost_buddy_drill" style="margin-top: 0.4em;"><dfn class="glossary">lost buddy drill</dfn></dt>
+<dt class="glossary" id="lost_buddy_procedure" style="margin-top: -0.2em;"><dfn class="glossary">lost buddy procedure</dfn></dt>
+<dd class="glossary">standardised procedure followed when a diver realises that their buddy is not where they should be. Procedures may vary depending on the circumstances and training organisations.</dd>
+
+<dt class="glossary" id="lost_line_drill" style="margin-top: 0.4em;"><dfn class="glossary">lost line drill</dfn></dt>
+<dt class="glossary" id="lost_line_procedure" style="margin-top: -0.2em;"><dfn class="glossary">lost line procedure</dfn></dt>
+<dd class="glossary">Standardised procedure to be followed when the guideline to the surface is lost in a penetration dive, often in conditions of low visibility and darkness.</dd>
+
+<dt class="glossary" id="low_impact_diving" style="margin-top: 0.4em;"><dfn class="glossary">low impact diving</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Low_impact_diving" title="Low impact diving">Low impact diving</a></span></p>
+Diving with low environmental impact. Diving in a way that avoids contact with or disturbance of sensitive organisms and adversely affecting the environment. Usually applied to recreational diving.</dd>
+
+<dt class="glossary" id="low_pressure" style="margin-top: 0.4em;"><dfn class="glossary">low pressure</dfn></dt>
+<dd class="glossary">1.&#160;&#160;Also: "intermediate pressure"<br />
+In diving, low pressure usually refers to the gas pressure provided from the first stage regulator to the demand valve for reduction to ambient pressure, the pressure provided by a low-pressure breathing air compressor to the gas panel for supply to the diver's umbilical or airline, or the pressure supplied to buoyancy compensator, dry suit or supply for lift bag inflation gas or pneumatic tools. These pressures are generally less than 30 bar, and in the case of scuba regulators are usually about 9 to 11 bar above ambient pressure.</dd>
+<dd class="glossary">2.&#160;&#160;In the context of diving cylinders, in the US, a low pressure cylinder has a working pressure below 2,500 pounds per square inch (170&#160;bar)</dd>
+
+<dt class="glossary" id="low_visibility" style="margin-top: 0.4em;"><dfn class="glossary">low visibility</dfn></dt>
+<dt class="glossary" id="low_viz" style="margin-top: -0.2em;"><dfn class="glossary">low viz</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Underwater_vision#Low_visibility" title="Underwater vision">Underwater vision#Low visibility</a></span></p>
+Water where, regardless of illumination, the distance over which objects can be seen is small. It is a term with highly variable and often relative meaning, but it would be almost universally accepted that less than 0.5 metres (1.6&#160;ft) visibility would be considered low visibility. For operational purposes NOAA define it as "When visual contact with the dive buddy can no longer be maintained", and DAN Southern Africa  suggest less than 3 metres (9.8&#160;ft).<sup id="cite_ref-Christou_18-0" class="reference"><a href="#cite_note-Christou-18">&#91;18&#93;</a></sup><sup id="cite_ref-NOAA_Low_visibility_19-0" class="reference"><a href="#cite_note-NOAA_Low_visibility-19">&#91;19&#93;</a></sup></dd>
+
+<dt class="glossary" id="lp" style="margin-top: 0.4em;"><dfn class="glossary">LP</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#low_pressure"><span title="See entry on this page at § low pressure" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">low pressure</span></a></span></p></dd>
+<dt class="glossary" id="lp_compressor" style="margin-top: 0.4em;"><dfn class="glossary">LP compressor</dfn></dt>
+<dd class="glossary">Low-pressure compressor. Used for breathing air supply for surface supplied air diving.</dd>
+
+<dt class="glossary" id="lp_cylinder" style="margin-top: 0.4em;"><dfn class="glossary">LP cylinder</dfn></dt>
+<dd class="glossary">Low-pressure cylinder (US) with working pressure less than 2,500 pounds per square inch (170&#160;bar).</dd>
+
+<dt class="glossary" id="lp_port" style="margin-top: 0.4em;"><dfn class="glossary">LP port</dfn></dt>
+<dd class="glossary">Opening on the first stage of a regulator through which regulated gas is supplied at low/intermediate pressure.</dd>
+
+<dt class="glossary" id="lst" style="margin-top: 0.4em;"><dfn class="glossary">LST</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#life_support_technician"><span title="See entry on this page at § life support technician" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">life support technician</span></a></span></p></dd>
+</dl>
+<h2><span class="mw-headline" id="Lu">Lu</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=20" title="Edit section: Lu">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="lung_packing" style="margin-top: 0.4em;"><dfn class="glossary">lung packing</dfn></dt>
+<dt class="glossary" id="lung-packing" style="margin-top: -0.2em;"><dfn class="glossary">lung-packing</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <span title="See entry on this page at § glossopharangeal insufflation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#glossopharangeal_insufflation" title="Glossary of underwater diving terminology: D–G">glossopharangeal insufflation</a></span></span></p></dd>
+</dl>
+<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=21" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
+<table class="wikitable divingGlossaryToC">
+
+<tbody><tr>
+<td>
+<p>Contents:&#160;<a href="#top">Top</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#A" title="Glossary of underwater diving terminology: A–C">A</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#B" title="Glossary of underwater diving terminology: A–C">B</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#C" title="Glossary of underwater diving terminology: A–C">C</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#D" title="Glossary of underwater diving terminology: D–G">D</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#E" title="Glossary of underwater diving terminology: D–G">E</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#F" title="Glossary of underwater diving terminology: D–G">F</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#G" title="Glossary of underwater diving terminology: D–G">G</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#H" title="Glossary of underwater diving terminology: H–O">H</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#I" title="Glossary of underwater diving terminology: H–O">I</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#J" title="Glossary of underwater diving terminology: H–O">J</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#K" title="Glossary of underwater diving terminology: H–O">K</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#L" title="Glossary of underwater diving terminology: H–O">L</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#M" title="Glossary of underwater diving terminology: H–O">M</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#N" title="Glossary of underwater diving terminology: H–O">N</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#O" title="Glossary of underwater diving terminology: H–O">O</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#P" title="Glossary of underwater diving terminology: P–S">P</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#Q" title="Glossary of underwater diving terminology: P–S">Q</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#R" title="Glossary of underwater diving terminology: P–S">R</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#S" title="Glossary of underwater diving terminology: P–S">S</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#T" title="Glossary of underwater diving terminology: T–Z">T</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#U" title="Glossary of underwater diving terminology: T–Z">U</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#V" title="Glossary of underwater diving terminology: T–Z">V</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#W" title="Glossary of underwater diving terminology: T–Z">W</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#X" title="Glossary of underwater diving terminology: T–Z">X</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#Y" title="Glossary of underwater diving terminology: T–Z">Y</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#Z" title="Glossary of underwater diving terminology: T–Z">Z</a>
+</p>
+</td>
+<td>
+<p><a href="#References">References</a>
+</p>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Ma">Ma</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=22" title="Edit section: Ma">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="mammalian_diving_reflex" style="margin-top: 0.4em;"><dfn class="glossary">mammalian diving reflex</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: "diving response"</span></p>
+A reflex response to breathhold and chilling of the face diving response expressed by the cardiovascular system, which exhibits hypertension, bradycardia, oxygen conservation, arrhythmias, and contraction of the spleen.<sup id="cite_ref-Lindholm_and_Lundgren_2009_20-0" class="reference"><a href="#cite_note-Lindholm_and_Lundgren_2009-20">&#91;20&#93;</a></sup></dd>
+
+<dt class="glossary" id="manifold" style="margin-top: 0.4em;"><dfn class="glossary">manifold</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <span title="See entry on this page at § twin cylinder manifold" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#twin_cylinder_manifold" title="Glossary of underwater diving terminology: T–Z">twin cylinder manifold</a></span></span></p></dd>
+<dt class="glossary" id="manifold_(breathing_gas_supply)" style="margin-top: 0.4em;"><dfn class="glossary">manifold (breathing gas supply)</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: "<a href="/wiki/Gas_panel" class="mw-redirect" title="Gas panel">gas panel</a>"</span></p>
+Panel for the distribution of diver breathing gas.<sup id="cite_ref-IMCA_D_057_1-11" class="reference"><a href="#cite_note-IMCA_D_057-1">&#91;1&#93;</a></sup></dd>
+
+<dt class="glossary" id="manifold_operator" style="margin-top: 0.4em;"><dfn class="glossary">manifold operator</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: "gas man"</span></p>
+A person such as a life support technician (LST), diving supervisor, or mixed-gas diver, who is designated to perform the duties of gas distribution on a surface-supplied mixed gas (HeO<sub>2</sub>) diving operation, who is competent in the operation of the manifold and whose primary responsibility is to operate the manifold.<sup id="cite_ref-IMCA_D_057_1-12" class="reference"><a href="#cite_note-IMCA_D_057-1">&#91;1&#93;</a></sup></dd>
+
+<dt class="glossary" id="manual_bypass_valve" style="margin-top: 0.4em;"><dfn class="glossary">manual bypass valve</dfn></dt>
+<dd class="glossary">A valve that allows the diver to manually inject gas into the breathing loop of a rebreather, bypassing the valve operated by the control system.<sup id="cite_ref-Heinerth_5-4" class="reference"><a href="#cite_note-Heinerth-5">&#91;5&#93;</a></sup></dd>
+
+<dt class="glossary" id="manual_closed_circuit_rebreather" style="margin-top: 0.4em;"><dfn class="glossary">manual closed circuit rebreather</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: "mCCR", "MCCR". See also: <span title="See entry on this page at § diver controlled closed circuit rebreather" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#diver_controlled_closed_circuit_rebreather" title="Glossary of underwater diving terminology: D–G">diver controlled closed circuit rebreather</a></span></span></p> 
+<p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Rebreather#Closed_circuit_mixed_gas_rebreathers" title="Rebreather">Rebreather#Closed circuit mixed gas rebreathers</a></span></p>
+A closed circuit rebreather which relies on the diver to monitor and control the gas mixture in the loop.</dd>
+
+<dt class="glossary" id="manufacturing_standard" style="margin-top: 0.4em;"><dfn class="glossary">manufacturing standard</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: "manufacturing code"</span></p>
+Set of design and manufacturing rules intended to produce uniform and safe products by several manufacturers in an industry.</dd>
+
+<dt class="glossary" id="marsh_marine_connector" style="margin-top: 0.4em;"><dfn class="glossary">Marsh Marine connector</dfn></dt>
+<dd class="glossary">One of the popular underwater plug connector systems for diver communications cables.<sup id="cite_ref-Marsh_Marine_21-0" class="reference"><a href="#cite_note-Marsh_Marine-21">&#91;21&#93;</a></sup></dd>
+
+<dt class="glossary" id="martini&#39;s_law" style="margin-top: 0.4em;"><dfn class="glossary">Martini's law</dfn></dt>
+<dd class="glossary">Rough rule of thumb for estimating <a href="/wiki/Nitrogen_narcosis" title="Nitrogen narcosis">nitrogen narcosis</a> effects based on equivalence to consumption of <a href="/wiki/Dry_martini" class="mw-redirect" title="Dry martini">dry martinis</a>: Variously quoted as one martini per 10&#160;m or one martini per 50&#160;ft depth.</dd>
+
+<dt class="glossary" id="master_link" style="margin-top: 0.4em;"><dfn class="glossary">master link</dfn></dt>
+<dd class="glossary">(<a href="/wiki/Rigging_(material_handling)" title="Rigging (material handling)">Rigging</a>): The large heavy duty link to which the legs of a <a href="/wiki/Chain_sling" class="mw-redirect" title="Chain sling">chain sling</a> are attached, and which is the attachment point on the sling for the lifting hook or shackle</dd>
+
+<dt class="glossary" id="maze_cave" style="margin-top: 0.4em;"><dfn class="glossary">maze cave</dfn></dt>
+<dd class="glossary">Cave structure characterised by multiple branches and changes in direction.</dd>
+
+<dt class="glossary" id="mccr" style="margin-top: 0.4em;"><dfn class="glossary">mCCR</dfn></dt>
+<dt class="glossary" id="mccr" style="margin-top: -0.2em;"><dfn class="glossary">MCCR</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#manual_closed_circuit_rebreather"><span title="See entry on this page at § manual closed circuit rebreather" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">manual closed circuit rebreather</span></a></span></p></dd>
+</dl>
+<h2><span class="mw-headline" id="Me">Me</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=23" title="Edit section: Me">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="metres_sea_water" style="margin-top: 0.4em;"><dfn class="glossary">metres sea water</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Metres_sea_water" class="mw-redirect" title="Metres sea water">metres sea water</a></span></p>
+Unit of pressure equal to 1/10 bar. Not a linear measure of depth.<sup id="cite_ref-NORSOK_U100_22-0" class="reference"><a href="#cite_note-NORSOK_U100-22">&#91;22&#93;</a></sup></dd>
+
+</dl>
+<h2><span class="mw-headline" id="Mi">Mi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=24" title="Edit section: Mi">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="microbubbles" style="margin-top: 0.4em;"><dfn class="glossary">microbubbles</dfn></dt>
+<dd class="glossary">Microscopic bubbles which are not detectable by ultrasound or Doppler ultrasound, yet can affect the likelihood of DCS by slowing off-gassing.<sup id="cite_ref-Suunto_Fused_RGBM_23-0" class="reference"><a href="#cite_note-Suunto_Fused_RGBM-23">&#91;23&#93;</a></sup></dd>
+
+<dt class="glossary" id="micronuclei" style="margin-top: 0.4em;"><dfn class="glossary">micronuclei</dfn></dt>
+<dd class="glossary">Microscopic cavities that function as bubble seeds by absorbing dissolved gas.<sup id="cite_ref-Suunto_Fused_RGBM_23-1" class="reference"><a href="#cite_note-Suunto_Fused_RGBM-23">&#91;23&#93;</a></sup></dd>
+
+<dt class="glossary" id="mid-water" style="margin-top: 0.4em;"><dfn class="glossary">mid-water</dfn></dt> 
+<dt class="glossary" id="midwater" style="margin-top: -0.2em;"><dfn class="glossary">midwater</dfn></dt>
+<dd class="glossary">Significantly distant from both the bottom and the surface.</dd>
+
+<dt class="glossary" id="medical_lock" style="margin-top: 0.4em;"><dfn class="glossary">medical lock</dfn></dt>
+<dd class="glossary">Small <a href="#lock"><span title="See entry on this page at § lock" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">lock</span></a> on a decompression chamber used for transfer of medical equipment and other supplies into and out of the chamber while the chamber remains under pressure.</dd>
+
+<dt class="glossary" id="mix" style="margin-top: 0.4em;"><dfn class="glossary">mix</dfn></dt>
+<dd class="glossary">Short for <a href="/wiki/Trimix_(breathing_gas)" title="Trimix (breathing gas)">trimix</a> breathing gas</dd>
+
+<dt class="glossary" id="mixed_gas" style="margin-top: 0.4em;"><dfn class="glossary">mixed gas</dfn></dt>
+<dd class="glossary"><a href="/wiki/Breathing_gas" title="Breathing gas">Breathing gas</a> for diving other than air, but usually implies a helium based mixture.</dd>
+
+<dt class="glossary" id="mixed_mode_diving" style="margin-top: 0.4em;"><dfn class="glossary">mixed mode diving</dfn></dt>
+<dd class="glossary">A mixed mode dive team is a buddy team where the divers use different modes of diving on the same dive, such as one diver on open circuit and the other on rebreather<sup id="cite_ref-Seymour_2016_24-0" class="reference"><a href="#cite_note-Seymour_2016-24">&#91;24&#93;</a></sup></dd> 
+
+<dt class="glossary" id="mixed_platform_diving" style="margin-top: 0.4em;"><dfn class="glossary">mixed platform diving</dfn></dt>
+<dd class="glossary">Mixed platform rebreather diving refers to the use of different makes or models of rebreather on the same dive.<sup id="cite_ref-Seymour_2016_24-1" class="reference"><a href="#cite_note-Seymour_2016-24">&#91;24&#93;</a></sup></dd>
+
+</dl>
+<h2><span class="mw-headline" id="Mo">Mo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=25" title="Edit section: Mo">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="mobile_diving_system" style="margin-top: 0.4em;"><dfn class="glossary">mobile diving system</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: "portable diving system"</span></p>
+A <span title="See entry on this page at § diving system" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#diving_system" title="Glossary of underwater diving terminology: D–G">diving system</a></span> (q.v.) which is installed on a vessel or installation on a temporary basis and that is not fixed, i.e. can be demobilised, transported and re-sited. Includes surface supplied air, nitrox, heliox and saturation diving systems.<sup id="cite_ref-IMCA_D_057_1-13" class="reference"><a href="#cite_note-IMCA_D_057-1">&#91;1&#93;</a></sup></dd>
+
+<dt class="glossary" id="mobile_offshore_drilling_unit" style="margin-top: 0.4em;"><dfn class="glossary">mobile offshore drilling unit</dfn></dt>
+<dd class="glossary">A generic term for several classes of self-contained floatable or floating drilling rigs such as drilling vessels, semisubmersibles, submersibles, jack-ups, and similar facilities that can be moved without substantial effort. These facilities may have self-propulsion equipment on board and may require dynamic positioning equipment or mooring systems to maintain their position.<sup id="cite_ref-MODU_25-0" class="reference"><a href="#cite_note-MODU-25">&#91;25&#93;</a></sup></dd>
+
+<dt class="glossary" id="mod" style="margin-top: 0.4em;"><dfn class="glossary">MOD</dfn></dt>
+<dd class="glossary"><a href="/wiki/Maximum_operating_depth" title="Maximum operating depth">Maximum operating depth</a>:  Limiting depth for safety based on <a href="/wiki/Partial_pressure" title="Partial pressure">partial pressure</a> of oxygen of a breathing gas mixture.</dd>
+
+<dt class="glossary" id="modified_flutter_kick" style="margin-top: 0.4em;"><dfn class="glossary">modified flutter kick</dfn></dt>
+<dd class="glossary">Version of the <span title="See entry on this page at § flutter kick" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#flutter_kick" title="Glossary of underwater diving terminology: D–G">flutter kick</a></span> finning style which reduces risk of silting by directing thrust more directly backwards. Two techniques exist: One version has the legs bent at the knees so that the fins are placed relatively high and on average are aligned more horizontally. The other version has one fin stationary below the moving fin to deflect downwash.<sup id="cite_ref-Cave_diving_terms_2-3" class="reference"><a href="#cite_note-Cave_diving_terms-2">&#91;2&#93;</a></sup> Leg movement is restrained, and ankle movement used for precision manoeuvring.</dd>
+
+<dt class="glossary" id="modified_frog_kick" style="margin-top: 0.4em;"><dfn class="glossary">modified frog kick</dfn></dt>
+<dd class="glossary">Version of the <span title="See entry on this page at § frog kick" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#frog_kick" title="Glossary of underwater diving terminology: D–G">frog kick</a></span> finning style which reduces risk of silting by directing thrust more directly backwards. Performed with bent knees and fins raised above the line of the torso.</dd>
+
+<dt class="glossary" id="modu" style="margin-top: 0.4em;"><dfn class="glossary">MODU</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#mobile_offshore_drilling_unit"><span title="See entry on this page at § mobile offshore drilling unit" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">mobile offshore drilling unit</span></a></span></p></dd>
+<dt class="glossary" id="monofin" style="margin-top: 0.4em;"><dfn class="glossary">monofin</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Monofin" title="Monofin">Monofin</a></span></p>
+A type of swimfin typically used in finswimming and free-diving. It consists of a single surface attached to footpockets for both of the diver's feet.</dd>
+
+<dt class="glossary" id="molecular_sieve" style="margin-top: 0.4em;"><dfn class="glossary">molecular sieve</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Molecular_sieve" title="Molecular sieve">Molecular sieve</a></span></p>
+Material containing tiny pores of a precise and uniform size that is used as an adsorbent for gases and liquids. Molecules small enough to pass through the pores are absorbed while larger molecules are not. It is different from a common filter in that it operates on a molecular level.</dd>
+
+<dt class="glossary" id="monkey_diving" style="margin-top: 0.4em;"><dfn class="glossary">monkey diving</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Sidemount_diving#Terminology" title="Sidemount diving">Sidemount diving#Terminology</a></span></p>
+The use of <span title="See entry on this page at § sidemount" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#sidemount" title="Glossary of underwater diving terminology: P–S">sidemount</a></span> configuration and procedures with a single cylinder.</dd>
+
+<dt class="glossary" id="moonpool" style="margin-top: 0.4em;"><dfn class="glossary">moonpool</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Moonpool" class="mw-redirect" title="Moonpool">Moonpool</a></span></p>
+An opening in the floor or base of the hull, platform, underwater habitat, or chamber, giving access to the water below.</dd>
+
+<dt class="glossary" id="msw" style="margin-top: 0.4em;"><dfn class="glossary">msw</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#metres_sea_water"><span title="See entry on this page at § metres sea water" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">metres sea water</span></a></span></p></dd>
+</dl>
+<h2><span class="mw-headline" id="Mu">Mu</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=26" title="Edit section: Mu">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="multi-level_dive" style="margin-top: 0.4em;"><dfn class="glossary">multi-level dive</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: "multilevel dive", "multi level dive"</span></p> 
+<p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Multi-level_dive" class="mw-redirect" title="Multi-level dive">Multi-level dive</a></span></p>
+A <a href="/wiki/Dive_profile" title="Dive profile">dive profile</a> in which the diver remains in more than one distinct depth ranges (excluding decompression stops) for a significant period before beginning final ascent to the surface.</dd>
+
+<dt class="glossary" id="multiple_stage_compressor" style="margin-top: 0.4em;"><dfn class="glossary">multiple stage compressor</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Compressor#Reciprocating_compressors" title="Compressor">Compressor#Reciprocating compressors</a></span></p>
+Compressor in which gases are compressed more than once, usually with cooling between stages. Used to improve efficiency and reduce temperatures.</dd>
+
+<dt class="glossary" id="mung" style="margin-top: 0.4em;"><dfn class="glossary">mung</dfn></dt>
+<dd class="glossary">A brown organic deposit usually found on the ceilings of caves which is easily dislodged by diver's exhaust bubbles and then drifts down through the water.</dd>
+
+<dt class="glossary" id="mushroom_valve" style="margin-top: 0.4em;"><dfn class="glossary">mushroom valve</dfn></dt>
+<dd class="glossary">A rubber non-return valve flap which is circular or oval, with a stem in the middle to attach it to the holder in the centre of the grating over the orifice.</dd>
+
+<dt class="glossary" id="m-value" style="margin-top: 0.4em;"><dfn class="glossary">M-value</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Decompression_theory#M-values" title="Decompression theory">Decompression theory#M-values</a></span></p>
+At a given ambient pressure, the M-value is the maximum theoretical value of absolute inert gas pressure that a tissue compartment can take without presenting symptoms of decompression sickness.</dd>
+
+</dl>
+<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=27" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
+<table class="wikitable divingGlossaryToC">
+
+<tbody><tr>
+<td>
+<p>Contents:&#160;<a href="#top">Top</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#A" title="Glossary of underwater diving terminology: A–C">A</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#B" title="Glossary of underwater diving terminology: A–C">B</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#C" title="Glossary of underwater diving terminology: A–C">C</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#D" title="Glossary of underwater diving terminology: D–G">D</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#E" title="Glossary of underwater diving terminology: D–G">E</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#F" title="Glossary of underwater diving terminology: D–G">F</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#G" title="Glossary of underwater diving terminology: D–G">G</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#H" title="Glossary of underwater diving terminology: H–O">H</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#I" title="Glossary of underwater diving terminology: H–O">I</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#J" title="Glossary of underwater diving terminology: H–O">J</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#K" title="Glossary of underwater diving terminology: H–O">K</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#L" title="Glossary of underwater diving terminology: H–O">L</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#M" title="Glossary of underwater diving terminology: H–O">M</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#N" title="Glossary of underwater diving terminology: H–O">N</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#O" title="Glossary of underwater diving terminology: H–O">O</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#P" title="Glossary of underwater diving terminology: P–S">P</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#Q" title="Glossary of underwater diving terminology: P–S">Q</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#R" title="Glossary of underwater diving terminology: P–S">R</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#S" title="Glossary of underwater diving terminology: P–S">S</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#T" title="Glossary of underwater diving terminology: T–Z">T</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#U" title="Glossary of underwater diving terminology: T–Z">U</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#V" title="Glossary of underwater diving terminology: T–Z">V</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#W" title="Glossary of underwater diving terminology: T–Z">W</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#X" title="Glossary of underwater diving terminology: T–Z">X</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#Y" title="Glossary of underwater diving terminology: T–Z">Y</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#Z" title="Glossary of underwater diving terminology: T–Z">Z</a>
+</p>
+</td>
+<td>
+<p><a href="#References">References</a>
+</p>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Na">Na</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=28" title="Edit section: Na">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="nacd" style="margin-top: 0.4em;"><dfn class="glossary">NACD</dfn></dt>
+<dd class="glossary"><a href="/wiki/National_Association_for_Cave_Diving" title="National Association for Cave Diving">National Association for Cave Diving</a></dd>
+
+<dt class="glossary" id="narcs" style="margin-top: 0.4em;"><dfn class="glossary">narcs</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#nitrogen_narcosis"><span title="See entry on this page at § nitrogen narcosis" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nitrogen narcosis</span></a></span></p></dd>
+<dt class="glossary" id="navy_experimental_diving_unit" style="margin-top: 0.4em;"><dfn class="glossary">Navy Experimental Diving Unit</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Navy_Experimental_Diving_Unit" class="mw-redirect" title="Navy Experimental Diving Unit">Navy Experimental Diving Unit</a></span></p> 
+The United States Navy Experimental Diving Unit, the primary source of diving and hyperbaric operational guidance for the US Navy, located in Florida</dd>
+
+<dt class="glossary" id="navy_seal" style="margin-top: 0.4em;"><dfn class="glossary">Navy SEAL</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/U.S._Navy_Seals" class="mw-redirect" title="U.S. Navy Seals">U.S. Navy Seals</a></span></p>
+A US Navy trained combat diver.</dd>
+
+<dt class="glossary" id="ndl" style="margin-top: 0.4em;"><dfn class="glossary">NDL</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#no_decompression_limit"><span title="See entry on this page at § No decompression limit" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">No decompression limit</span></a></span></p></dd>
+</dl>
+<h2><span class="mw-headline" id="Ne">Ne</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=29" title="Edit section: Ne">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="neck_dam" style="margin-top: 0.4em;"><dfn class="glossary">neck dam</dfn></dt>
+<dd class="glossary">The lower part of a <a href="/wiki/Diving_helmet#Lightweight_demand_helmets" title="Diving helmet">lightweight diving helmet</a> which includes a neoprene or latex neck seal similar to the neck seal on a dry suit, to prevent ingress of water. The alternative is to clamp the helmet to the diver's <a href="/wiki/Drysuit" class="mw-redirect" title="Drysuit">drysuit</a>.</dd>
+
+<dt class="glossary" id="necklace" style="margin-top: 0.4em;"><dfn class="glossary">necklace</dfn></dt>
+<dd class="glossary">Bungee loop attached to the secondary regulator second stage, worn around the neck to store the secondary close under the chin, where it is protected and the diver is immediately aware of a free-flow. With a little adjustment and practice it is possible to pick it up by head and mouth movement alone, not needing use of a hand. The bungee is attached to the second stage by a breakaway connection, often a close-fitting loop over the mouthpiece, so that it can be moved away from the diver's head in an emergency without disturbing the primary second stage or the mask.</dd>
+
+<dt class="glossary" id="neck_thread" style="margin-top: 0.4em;"><dfn class="glossary">neck thread</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Diving_cylinder#Cylinder_neck" title="Diving cylinder">Diving cylinder#Cylinder neck</a></span></p>
+Internal screw thread in the bore of the <a href="/wiki/Diving_cylinder#cylinder_neck" title="Diving cylinder">cylinder neck</a> to fit a <a href="/wiki/Diving_cylinder#The_cylinder_valve" title="Diving cylinder">cylinder valve</a>, which controls flow of gas into and out of the cylinder.</dd>
+
+<dt class="glossary" id="nedu" style="margin-top: 0.4em;"><dfn class="glossary">NEDU</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#navy_Experimental_Diving_Unit"><span title="See entry on this page at § Navy Experimental Diving Unit" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Navy Experimental Diving Unit</span></a></span></p></dd>
+<dt class="glossary" id="negative_buoyancy" style="margin-top: 0.4em;"><dfn class="glossary">negative buoyancy</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: just "negative" in context</span></p>
+<p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See also <span title="See entry on this page at § diving heavy" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#diving_heavy" title="Glossary of underwater diving terminology: D–G">diving heavy</a></span></span></p> 
+Buoyancy less than weight. Insufficient upward force due to buoyancy to keep afloat or remain at constant depth</dd>
+
+<dt class="glossary" id="negative_buoyancy_entry" style="margin-top: 0.4em;"><dfn class="glossary">negative buoyancy entry</dfn></dt>
+<dt class="glossary" id="negatively_buoyant_entry" style="margin-top: -0.2em;"><dfn class="glossary">negatively buoyant entry</dfn></dt>
+<dt class="glossary" id="negative_entry" style="margin-top: -0.2em;"><dfn class="glossary">negative entry</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Scuba_skills#Entries_and_exits" title="Scuba skills">Scuba skills#Entries and exits</a></span></p>
+Entry into the water in a buoyancy condition that will sink by default. When intentional, generally after reducing buoyancy of BC and, if applicable, dry suit by venting to ensure that the diver will not float back to the surface, but will continue to descend.</dd>
+
+<dt class="glossary" id="negative_pressure_breathing" style="margin-top: 0.4em;"><dfn class="glossary">negative pressure breathing</dfn></dt>
+<dt class="glossary" id="negative_static_lung_load" style="margin-top: -0.2em;"><dfn class="glossary">negative static lung load</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Human_physiology_of_underwater_diving#Positive_and_negative_pressure_breathing" title="Human physiology of underwater diving">Human physiology of underwater diving#Positive and negative pressure breathing</a></span></p>
+Breathing against an external pressure slightly less than the relaxed pressure in the lungs. More effort is needed to inhale, less to exhale. This can occur when using back mounted counterlungs on a rebreather, in a steep head up position with a single-hose demand valve, or when snorkelling.</dd>
+
+<dt class="glossary" id="neo-haldanian" style="margin-top: 0.4em;"><dfn class="glossary">neo-Haldanian</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: "neo-Haldanean"</span></p>
+<p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article <a href="/wiki/Decompression_theory#Critical_difference_hypothesis" title="Decompression theory">Decompression theory#Critical difference hypothesis</a></span></p>
+Decompression models based on later modifications of the principles described by <a href="/wiki/John_Scott_Haldane" title="John Scott Haldane">John Scott Haldane</a>.</dd>
+
+<dt class="glossary" id="neoprene" style="margin-top: 0.4em;"><dfn class="glossary">neoprene</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Neoprene" title="Neoprene">Neoprene</a></span></p>
+Synthetic elastomer used in the form of foamed sheets as the material for most <a href="/wiki/Wetsuit" title="Wetsuit">wetsuits</a> and some <a href="/wiki/Drysuit" class="mw-redirect" title="Drysuit">drysuits</a>.</dd>
+
+<dt class="glossary" id="neutral_buoyancy" style="margin-top: 0.4em;"><dfn class="glossary">neutral buoyancy</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Buoyancy" title="Buoyancy">Buoyancy</a></span></p>
+Having a fully immersed buoyancy exactly equal to weight, so that the forces are balanced and the person or object statically remains at a constant depth. Effectively average density is equal to that of the surrounding fluid medium. The state of neutral buoyancy is typically <a href="/wiki/Metastable" class="mw-redirect" title="Metastable">metastable</a> for a compressible system.</dd>
+
+<dt class="glossary" id="newtsuit" style="margin-top: 0.4em;"><dfn class="glossary">Newtsuit</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Newtsuit" title="Newtsuit">Newtsuit</a></span></p>
+An <a href="/wiki/Atmospheric_diving_suit" title="Atmospheric diving suit">atmospheric diving suit</a> designed and originally built by <a href="/wiki/Phil_Nuytten" title="Phil Nuytten">Phil Nuytten</a>.</dd>
+
+<dt class="glossary" id="net_cutter" style="margin-top: 0.4em;"><dfn class="glossary">net cutter</dfn></dt>
+<dd class="glossary">A handle with a hooked blade used to cut netting or cordage to free the diver from entanglement</dd>
+
+<dt class="glossary" id="nfci" style="margin-top: 0.4em;"><dfn class="glossary">NFCI</dfn></dt>
+<dd class="glossary"><a href="/wiki/Non-freezing_cold_injury" title="Non-freezing cold injury">Non-freezing cold injury</a>: Permanent tissue damage due to low temperature exposure without any freezing damage.</dd>
+
+</dl>
+<h2><span class="mw-headline" id="Ni">Ni</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=30" title="Edit section: Ni">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl class="glossary">
+
+<dt class="glossary" id="niggles" style="margin-top: 0.4em;"><dfn class="glossary">niggles</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Decompression_sickness#Signs_and_symptoms" title="Decompression sickness">Decompression sickness#Signs and symptoms</a></span></p>
+Minor symptoms characteristic of mild decompression sickness.</dd>
+
+<dt class="glossary" id="night_diving" style="margin-top: 0.4em;"><dfn class="glossary">night diving</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Night_diving" title="Night diving">Night diving</a></span></p>
+Diving during the hours of darkness.</dd>
+
+<dt class="glossary" id="nimh" style="margin-top: 0.4em;"><dfn class="glossary">NiMH</dfn></dt>
+<dd class="glossary"><a href="/wiki/Nickel-metal_hydride" class="mw-redirect" title="Nickel-metal hydride">Nickel-metal hydride</a>. A technology for <a href="/wiki/Rechargeable_battery" title="Rechargeable battery">rechargeable battery</a> cells.</dd>
+
+<dt class="glossary" id="nitrile" style="margin-top: 0.4em;"><dfn class="glossary">nitrile</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Nitrile_rubber" title="Nitrile rubber">Nitrile rubber</a></span></p>
+A synthetic <a href="/wiki/Elastomer" title="Elastomer">elastomer</a> used for most standard <a href="/wiki/O-ring" title="O-ring">O-ring</a> seals.</dd>
+
+<dt class="glossary" id="nitrogen" style="margin-top: 0.4em;"><dfn class="glossary">nitrogen</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Nitrogen" title="Nitrogen">Nitrogen</a></span></p>
+The major component gas of air and many <a href="/wiki/Breathing_gas" title="Breathing gas">breathing gas</a> mixtures used in diving. Important in diving as an active agent in <a href="/wiki/Nitrogen_narcosis" title="Nitrogen narcosis">nitrogen narcosis</a> and <a href="/wiki/Decompression_sickness" title="Decompression sickness">decompression sickness</a>.</dd>
+
+<dt class="glossary" id="nitrogen_narcosis" style="margin-top: 0.4em;"><dfn class="glossary">nitrogen narcosis</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Nitrogen_narcosis" title="Nitrogen narcosis">Nitrogen narcosis</a></span></p>
+Also known as narcs, inert gas narcosis, raptures of the deep, Martini effect: A reversible alteration in consciousness that occurs while breathing gases containing nitrogen under elevated partial pressure similar to alcohol intoxication or nitrous oxide inhalation, and can occur during shallow dives, but usually does not become noticeable until greater depths, beyond 30 meters.</dd>
+
+<dt class="glossary" id="nitrox" style="margin-top: 0.4em;"><dfn class="glossary">nitrox</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: "Enriched Air Nitrox (EAN)"</span></p>
+<p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article <a href="/wiki/Nitrox" title="Nitrox">Nitrox</a></span></p>
+Mixture of nitrogen and oxygen for use as breathing gas. Usually with oxygen percentage higher than air.</dd>
+
+<dt class="glossary" id="nitrox_stick" style="margin-top: 0.4em;"><dfn class="glossary">nitrox stick</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Gas_blending_for_scuba_diving#Mixing_the_gases" title="Gas blending for scuba diving">Gas blending for scuba diving#Mixing the gases</a></span></p>
+A mixing tube used to blend oxygen with air before compressing to make nitrox breathing gas.</dd>
+
+<dt class="glossary" id="noaa" style="margin-top: 0.4em;"><dfn class="glossary">NOAA</dfn></dt>
+<dd class="glossary"><a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a> (US)</dd>
+
+<dt class="glossary" id="no_decompression_limit" style="margin-top: 0.4em;"><dfn class="glossary">no decompression limit</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Decompression_practice#No_decompression_limit" title="Decompression practice">Decompression practice#No decompression limit</a></span></p>
+No decompression limit. The maximum time which a diver can remain at a specified depth without incurring a stage decompression obligation in terms of the specified decompression tables or algorithm.</dd>
+
+<dt class="glossary" id="nominal_capacity" style="margin-top: 0.4em;"><dfn class="glossary">nominal capacity</dfn></dt>
+<dd class="glossary">Volume of <span title="See entry on this page at § free gas volume" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#free_gas_volume" title="Glossary of underwater diving terminology: D–G">free gas</a></span> contained by a scuba cylinder when filled to <span title="See entry on this page at § charging pressure" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#charging_pressure" title="Glossary of underwater diving terminology: A–C">charging pressure</a></span> at constant temperature.</dd>
+
+<dt class="glossary" id="no-mount_diving" style="margin-top: 0.4em;"><dfn class="glossary">No-mount diving</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Side_mount_diving#Terminology" class="mw-redirect" title="Side mount diving">Side mount diving#Terminology</a></span></p>
+A specialized overhead-environment strategy for dealing with particularly tight restrictions which may involve divers wearing a very basic harness or simply hand-carrying cylinders.</dd>
+
+<dt class="glossary" id="normoxic" style="margin-top: 0.4em;"><dfn class="glossary">normoxic</dfn></dt>
+<dd class="glossary">1.&#160;&#160;A breathing gas mixture with oxygen content approximating atmospheric air.</dd>
+<dd class="glossary">2.&#160;&#160;A breathing gas for diving which contains sufficient oxygen to minimise risk of hypoxia at atmospheric pressure.</dd>
+
+<dt class="glossary" id="nss" style="margin-top: 0.4em;"><dfn class="glossary">NSS</dfn></dt>
+<dd class="glossary"><a href="/wiki/National_Speleological_Society" title="National Speleological Society">National Speleological Society</a></dd>
+
+<dt class="glossary" id="nystagmus" style="margin-top: 0.4em;"><dfn class="glossary">nystagmus</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Nystagmus" title="Nystagmus">Nystagmus</a></span></p>
+An oscillation of the eyes alternating a slow eye movement in one direction, and a fast eye movement in the other direction.</dd>
+
+</dl>
+<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_underwater_diving_terminology:_H%E2%80%93O&amp;action=edit&amp;section=31" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
+<table class="wikitable divingGlossaryToC">
+
+<tbody><tr>
+<td>
+<p>Contents:&#160;<a href="#top">Top</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#A" title="Glossary of underwater diving terminology: A–C">A</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#B" title="Glossary of underwater diving terminology: A–C">B</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#C" title="Glossary of underwater diving terminology: A–C">C</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#D" title="Glossary of underwater diving terminology: D–G">D</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#E" title="Glossary of underwater diving terminology: D–G">E</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#F" title="Glossary of underwater diving terminology: D–G">F</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#G" title="Glossary of underwater diving terminology: D–G">G</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#H" title="Glossary of underwater diving terminology: H–O">H</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#I" title="Glossary of underwater diving terminology: H–O">I</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#J" title="Glossary of underwater diving terminology: H–O">J</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#K" title="Glossary of underwater diving terminology: H–O">K</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#L" title="Glossary of underwater diving terminology: H–O">L</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#M" title="Glossary of underwater diving terminology: H–O">M</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#N" title="Glossary of underwater diving terminology: H–O">N</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#O" title="Glossary of underwater diving terminology: H–O">O</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#P" title="Glossary of underwater diving terminology: P–S">P</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#Q" title="Glossary of underwater diving terminology: P–S">Q</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#R" title="Glossary of underwater diving terminology: P–S">R</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_P%E2%80%93S#S" title="Glossary of underwater diving terminology: P–S">S</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#T" title="Glossary of underwater diving terminology: T–Z">T</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#U" title="Glossary of underwater diving terminology: T–Z">U</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#V" title="Glossary of underwater diving terminology: T–Z">V</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#W" title="Glossary of underwater diving terminology: T–Z">W</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#X" title="Glossary of underwater diving terminology: T–Z">X</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#Y" title="Glossary of underwater diving terminology: T–Z">Y</a>
+</p>
+</td>
+<td>
+<p><a href="/wiki/Glossary_of_underwater_diving_terminology:_T%E2%80%93Z#Z" title="Glossary of underwater diving terminology: T–Z">Z</a>
+</p>
+</td>
+<td>
+<p><a href="#References">References</a>
+</p>
+</td></tr></tbody></table>
+<dl class="glossary">
+
+<dt class="glossary" id="octopus_breathing" style="margin-top: 0.4em;"><dfn class="glossary">octopus breathing</dfn></dt>
+<dd class="glossary">Sharing air using an octopus regulator</dd>
+
+<dt class="glossary" id="octopus_regulator" style="margin-top: 0.4em;"><dfn class="glossary">octopus regulator</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also: "octo reg", "safe second"</span></p>
+<p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Diving_regulator#Octopus" title="Diving regulator">Diving regulator#Octopus</a></span></p>
+A secondary demand valve fitted to a diving first stage for use as an alternative air source for another diver in case of an emergency. Also occasionally useful as a backup in case of some kinds of malfunction of the primary</dd>
+
+<dt class="glossary" id="offboard" style="margin-top: 0.4em;"><dfn class="glossary">offboard</dfn></dt>
+<dd class="glossary">Not an integral part of the scuba unit. Usually applied to gas cylinders carried additional to the <a href="#onboard_gas"><span title="See entry on this page at § onboard gas" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">onboard gas</span></a> of a rebreather.</dd>
+
+<dt class="glossary" id="offboard_gas" style="margin-top: 0.4em;"><dfn class="glossary">offboard gas</dfn></dt>
+<dd class="glossary">Gas carried in cylinders not integrally mounted on a rebreather, but plumbed into the unit.</dd>
+
+<dt class="glossary" id="off-gassing" style="margin-top: 0.4em;"><dfn class="glossary">off-gassing</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#outgassing"><span title="See entry on this page at § outgassing" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">outgassing</span></a></span></p></dd>
+<dt class="glossary" id="offshore" style="margin-top: 0.4em;"><dfn class="glossary">offshore</dfn></dt>
+<dd class="glossary">1.&#160;&#160;A significant distance away to seaward from the shoreline.</dd>
+<dd class="glossary">2.&#160;&#160;Outside the national maritime border, in international waters, though generally still inside the exclusive economic zone.<sup id="cite_ref-Offshore_ACOP_2014_26-0" class="reference"><a href="#cite_note-Offshore_ACOP_2014-26">&#91;26&#93;</a></sup></dd>
+
+<dt class="glossary" id="offshore_diver" style="margin-top: 0.4em;"><dfn class="glossary">offshore diver</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article <a href="/wiki/Commercial_offshore_diving" title="Commercial offshore diving">Commercial offshore diving</a></span></p> 
+Colloquial term for a diver who works in the offshore oil and gas industry.<sup id="cite_ref-Bevan_2005_12-2" class="reference"><a href="#cite_note-Bevan_2005-12">&#91;12&#93;</a></sup> A professional diver who works in regions outside the jurisdiction of national occupational health and safety and labour laws.</dd>
+
+<dt class="glossary" id="o-lay" style="margin-top: 0.4em;"><dfn class="glossary">O-lay</dfn></dt>
+<dd class="glossary">Method for installation of sub-sea pipeline for the oil and gas industry. The pipe is constructed in an onshore construction yard, moved into the water and bent into a spiral without causing plastic deformation of the material. When the pipeline is sufficiently long it is transported with the help of tugs to the installation area. At the installation area the pipeline is unwound and pulled over a simple lay barge with stinger and installed on the bottom.<sup id="cite_ref-O-lay_27-0" class="reference"><a href="#cite_note-O-lay-27">&#91;27&#93;</a></sup></dd>
+
+<dt class="glossary" id="oled" style="margin-top: 0.4em;"><dfn class="glossary">OLED</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main: <a href="/wiki/OLED" title="OLED">OLED</a></span></p>
+Organic light-emitting diode: A low energy high contrast light source commonly used on instrument displays such as later generation dive computers.</dd>
+
+<dt class="glossary" id="omitted_decompression_procedure" style="margin-top: 0.4em;"><dfn class="glossary">omitted decompression procedure</dfn></dt>
+<dt class="glossary" id="omitted_decompression_protocol" style="margin-top: -0.2em;"><dfn class="glossary">omitted decompression protocol</dfn></dt>
+<dd class="glossary">Procedure for managing a diver who surfaces without completing required decompression. If a chamber is available, the diver is recompressed in it, otherwise if no symptoms have presented, the diver may be recompressed as soon as practicable in the water. Various schedules for further decompression depend on the dive history.</dd>
+
+<dt class="glossary" id="onboard" style="margin-top: 0.4em;"><dfn class="glossary">onboard</dfn></dt>
+<dd class="glossary">Mounted directly onto the unit as an integral component. Usually applied to gas cylinders mounted on a rebreather frame or housing, or emergency gas supply cylinders mounted on a diving bell or stage.</dd>
+
+<dt class="glossary" id="onboard_gas" style="margin-top: 0.4em;"><dfn class="glossary">onboard gas</dfn></dt>
+<dd class="glossary">Gas carried in cylinders mounted as part of a unit, usually a rebreather or diving bell or stage.</dd>
+
+<dt class="glossary" id="on-gassing" style="margin-top: 0.4em;"><dfn class="glossary">on-gassing</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <span title="See entry on this page at § ingassing" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#ingassing" title="Glossary of underwater diving terminology: H–O">ingassing</a></span></span></p></dd>
+<dt class="glossary" id="onshore" style="margin-top: 0.4em;"><dfn class="glossary">onshore</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <span title="See entry on this page at § inshore" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_H%E2%80%93O#inshore" title="Glossary of underwater diving terminology: H–O">inshore</a></span></span></p></dd>
+<dt class="glossary" id="open_circuit" style="margin-top: 0.4em;"><dfn class="glossary">open circuit</dfn></dt>
+<dd class="glossary">Breathing apparatus which discharges exhaled gas into the environment, without any further use.</dd>
+
+<dt class="glossary" id="open_water" style="margin-top: 0.4em;"><dfn class="glossary">open water</dfn></dt>
+<dd class="glossary">1.&#160;&#160;<i>See: <a href="/wiki/List_of_diving_environments_by_type#Environments_by_confinement" title="List of diving environments by type">List of diving environments by type#Environments by confinement</a></i>. 
+Water where there is no physical obstruction to a direct ascent to the surface.<sup id="cite_ref-open_water_28-0" class="reference"><a href="#cite_note-open_water-28">&#91;28&#93;</a></sup></dd>
+<dd class="glossary">2.&#160;&#160;Water which is open to influences by weather and climatic conditions.<sup id="cite_ref-Class_IV_29-0" class="reference"><a href="#cite_note-Class_IV-29">&#91;29&#93;</a></sup></dd>
+
+<dt class="glossary" id="optode" style="margin-top: 0.4em;"><dfn class="glossary">optode</dfn></dt>
+<dt class="glossary" id="optrode" style="margin-top: -0.2em;"><dfn class="glossary">optrode</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Optode" title="Optode">Optode</a></span></p>
+Optical sensor device to measure a specific substance, usually with the aid of a chemical transducer.</dd>
+
+<dt class="glossary" id="ooa" style="margin-top: 0.4em;"><dfn class="glossary">OOA</dfn></dt>
+<dd class="glossary">Out of air. An emergency situation where the supply of breathing gas to the diver has stopped.</dd>
+
+<dt class="glossary" id="opv" style="margin-top: 0.4em;"><dfn class="glossary">OPV</dfn></dt>
+<dd class="glossary">Over-pressure valve. A <a href="/wiki/Pressure_relief_valve" class="mw-redirect" title="Pressure relief valve">pressure relief valve</a> which automatically opens at a set pressure to allow excess gas to escape.</dd>
+
+<dt class="glossary" id="o-ring" style="margin-top: 0.4em;"><dfn class="glossary">O-ring</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/O-ring" title="O-ring">O-ring</a></span></p>
+A mechanical gasket in the shape of a torus; a loop of elastomer with a circular cross-section, designed to be seated in a groove and compressed during assembly between two or more parts, creating a seal at the contact surfaces.</dd>
+
+<dt class="glossary" id="oro-nasal_mask" style="margin-top: 0.4em;"><dfn class="glossary">oro-nasal mask</dfn></dt>
+<dt class="glossary" id="ori-nasal_mask" style="margin-top: -0.2em;"><dfn class="glossary">ori-nasal mask</dfn></dt> 
+<dd class="glossary">A breathing mask that covers the mouth and nose only. It may be an independent item, such as an oxygen mask or <span title="See entry on this page at § BIBS" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#BIBS" title="Glossary of underwater diving terminology: A–C">BIBS</a></span> mask, or it may be a component inside a full face diving mask or helmet to reduce the amount of <a href="/wiki/Dead_space_(physiology)" title="Dead space (physiology)">dead space</a></dd>
+
+<dt class="glossary" id="otu" style="margin-top: 0.4em;"><dfn class="glossary">OTU</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="#oxygen_toxicity_unit"><span title="See entry on this page at § oxygen toxicity unit" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">oxygen toxicity unit</span></a></span></p></dd>
+<dt class="glossary" id="outgassing" style="margin-top: 0.4em;"><dfn class="glossary">outgassing</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Decompression_theory#Outgassing_of_tissues" title="Decompression theory">Decompression theory#Outgassing of tissues</a></span></p>
+Diffusion of gas out of the tissue into the blood, and transport to the lungs where it diffuses into the lung gas and is eliminated by exhalation.</dd>
+
+<dt class="glossary" id="overhead" style="margin-top: 0.4em;"><dfn class="glossary">overhead</dfn></dt>
+<dd class="glossary">A physical or procedural obstruction to a direct ascent to the surface. Physical overheads include cave, cavern or culvert ceilings, fishing nets, ship hulls, and wreckage. Procedural overheads are generally a decompression obligation.</dd>
+
+<dt class="glossary" id="overrun" style="margin-top: 0.4em;"><dfn class="glossary">overrun</dfn></dt>
+<dd class="glossary">Excessive rotation of a reel or spool by inertia, causing the line to unwind beyond the amount paid out, and lie in loose coils on the spool which can jam or tangle.</dd>
+
+<dt class="glossary" id="overweighting" style="margin-top: 0.4em;"><dfn class="glossary">overweighting</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See also: <span title="See entry on this page at § diving heavy" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_D%E2%80%93G#diving_heavy" title="Glossary of underwater diving terminology: D–G">diving heavy</a></span></span></p>
+Carrying more ballast weight than is necessary to achieve neutral buoyancy at all times during a dive. In scuba diving usually a dangerous error, but used in surface-supplied diving to stabilise the diver when working on the bottom.</dd>
+
+<dt class="glossary" id="oxygen" style="margin-top: 0.4em;"><dfn class="glossary">oxygen</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Oxygen" title="Oxygen">Oxygen</a></span></p>
+Important component gas of <a href="/wiki/Atmospheric_air" class="mw-redirect" title="Atmospheric air">atmospheric air</a> and essential component of any <a href="/wiki/Breathing_gas" title="Breathing gas">breathing gas</a>. Required to sustain life.</dd>
+
+<dt class="glossary" id="oxygen_analyser" style="margin-top: 0.4em;"><dfn class="glossary">oxygen analyser</dfn></dt>
+<dt class="glossary" id="oxygen_analyzer" style="margin-top: 0.4em;"><dfn class="glossary">oxygen analyzer</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Oxygen_analyzer" class="mw-redirect" title="Oxygen analyzer">Oxygen analyzer</a></span></p>
+Instrument for measuring the partial pressure of oxygen in a gas mixture</dd>
+
+<dt class="glossary" id="oxygen_cell" style="margin-top: 0.4em;"><dfn class="glossary">oxygen cell</dfn></dt>
+<dd class="glossary"><a href="/wiki/Electro-galvanic_oxygen_sensor" title="Electro-galvanic oxygen sensor">Electro-galvanic oxygen sensor</a> for measuring partial pressure of oxygen in the breathing gas using an oxygen analyser</dd>
+
+<dt class="glossary" id="oxygen_clean" style="margin-top: 0.4em;"><dfn class="glossary">oxygen clean</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Oxygen_compatibility#Oxygen_cleaning" title="Oxygen compatibility">Oxygen compatibility#Oxygen cleaning</a></span></p>
+Cleaned for <a href="/wiki/Oxygen_service" class="mw-redirect" title="Oxygen service">oxygen service</a> by appropriate methods and materials and tested for contaminants. Verified that particulates, fibres, oils, greases and other contaminants are absent.<sup id="cite_ref-ISO13293_7-1" class="reference"><a href="#cite_note-ISO13293-7">&#91;7&#93;</a></sup></dd>
+
+<dt class="glossary" id="oxygen_clock" style="margin-top: 0.4em;"><dfn class="glossary">oxygen clock</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Oxygen_toxicity#Underwater" title="Oxygen toxicity">Oxygen toxicity#Underwater</a></span></p>
+A notional alarm clock, which accumulates hyperbaric oxygen exposure at a rate which increases with higher oxygen partial pressure toward the maximum single exposure limit recommended. This <a href="/wiki/Dive_computer#Display_information" title="Dive computer">function is implemented</a> as cumulative oxygen exposure for acute (CNS) oxygen toxicity in some dive computers.</dd>
+
+<dt class="glossary" id="oxygen_compatible" style="margin-top: 0.4em;"><dfn class="glossary">oxygen compatible</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Oxygen_compatibility" title="Oxygen compatibility">Oxygen compatibility</a></span></p>
+Made from materials which are suitable for oxygen service. Capable of coexisting with elevated oxygen concentrations and a potential source of ignition without flashing, based on a system’s maximum operating pressure and temperature.<sup id="cite_ref-ISO13293_7-2" class="reference"><a href="#cite_note-ISO13293-7">&#91;7&#93;</a></sup></dd>
+
+<dt class="glossary" id="oxygen_compatible_air" style="margin-top: 0.4em;"><dfn class="glossary">oxygen compatible air</dfn></dt>
+<dd class="glossary">Air which has been filtered to reduce contaminants to a level suitable for blending with high pressure oxygen. Air with a reduced level of condensable hydrocarbon mist or vapour.<sup id="cite_ref-ISO13293_7-3" class="reference"><a href="#cite_note-ISO13293-7">&#91;7&#93;</a></sup></dd>
+
+<dt class="glossary" id="oxygen_design" style="margin-top: 0.4em;"><dfn class="glossary">oxygen design</dfn></dt>
+<dt class="glossary" id="oxygen_service_design" style="margin-top: -0.2em;"><dfn class="glossary">oxygen service design</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Oxygen_compatibility#Oxygen_service_design" title="Oxygen compatibility">Oxygen compatibility#Oxygen service design</a></span></p> 
+Design that minimizes any tendency for heat generation, ignition of particulates, or the accumulation of contaminants for an intended partial pressure of oxygen and temperature.<sup id="cite_ref-ISO13293_7-4" class="reference"><a href="#cite_note-ISO13293-7">&#91;7&#93;</a></sup></dd>
+
+<dt class="glossary" id="oxygen_fraction" style="margin-top: 0.4em;"><dfn class="glossary">oxygen fraction</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Breathing_gas#Classification_by_oxygen_fraction" title="Breathing gas">Breathing gas#Classification by oxygen fraction</a></span></p>
+Fraction by volume or pressure of the gas mixture made up by oxygen</dd>
+
+<dt class="glossary" id="oxygen_pete" style="margin-top: 0.4em;"><dfn class="glossary">Oxygen Pete</dfn></dt>
+<dd class="glossary">Imaginary monster associated with <a href="/wiki/Oxygen_toxicity#History" title="Oxygen toxicity">CNS oxygen toxicity</a>, also a CNS oxygen toxicity seizure.</dd>
+
+<dt class="glossary" id="oxygen_rebreather" style="margin-top: 0.4em;"><dfn class="glossary">oxygen rebreather</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See: <a href="/wiki/Rebreather#Oxygen_rebreathers" title="Rebreather">Rebreather#Oxygen rebreathers</a></span></p>
+A <span title="See entry on this page at § closed circuit rebreather" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_underwater_diving_terminology:_A%E2%80%93C#closed_circuit_rebreather" title="Glossary of underwater diving terminology: A–C">closed circuit rebreather</a></span> that uses only oxygen as a gas supply.<sup id="cite_ref-Heinerth_5-5" class="reference"><a href="#cite_note-Heinerth-5">&#91;5&#93;</a></sup></dd>
+
+<dt class="glossary" id="oxygen_sensor" style="margin-top: 0.4em;"><dfn class="glossary">oxygen sensor</dfn></dt>
+<dd class="glossary">A component that produces a signal in response to the presence or concentration of oxygen. In diving this is usually a galvanic cell that generates a current and voltage proportional to the partial pressure of oxygen in a breathing gas.<sup id="cite_ref-Heinerth_5-6" class="reference"><a href="#cite_note-Heinerth-5">&#91;5&#93;</a></sup></dd>
+
+<dt class="glossary" id="oxygen_service" style="margin-top: 0.4em;"><dfn class="glossary">oxygen service</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">See:<a href="/wiki/Oxygen_compatibility#Oxygen_service" title="Oxygen compatibility">Oxygen compatibility#Oxygen service</a></span></p> 
+Suitable for operating with significantly higher levels of oxygen than normal atmospheric air. Often implies special cleaning procedures, use of oxygen compatible materials, and design to reduce ignition risk. System or component that has been designed and tested for oxygen use, has been tested as oxygen clean and is oxygen compatible.<sup id="cite_ref-ISO13293_7-5" class="reference"><a href="#cite_note-ISO13293-7">&#91;7&#93;</a></sup></dd>
+
+<dt class="glossary" id="oxygen_toxicity" style="margin-top: 0.4em;"><dfn class="glossary">oxygen toxicity</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Oxygen_toxicity" title="Oxygen toxicity">Oxygen toxicity</a></span></p>
+A condition resulting from the harmful effects of breathing molecular oxygen (O<sub>2</sub>) at elevated partial pressures.</dd>
+
+<dt class="glossary" id="oxygen_toxicity_unit" style="margin-top: 0.4em;"><dfn class="glossary">oxygen toxicity unit</dfn></dt> 
+<dd class="glossary">Unit of exposure to toxic concentrations of oxygen in breathing gas, primarily in connection with pulmonary oxygen toxicity and oxidative damage to cell membranes. The accumulation of OTUs depends on time and partial pressure of exposure, and dissipation is a function of recovery time at non-toxic partial pressures.</dd>
+
+<dt class="glossary" id="oxygen_window" style="margin-top: 0.4em;"><dfn class="glossary">oxygen window</dfn></dt>
+<dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Main article: <a href="/wiki/Oxygen_window_in_diving_decompression" class="mw-redirect" title="Oxygen window in diving decompression">Oxygen window in diving decompression</a></span></p>
+Inherent unsaturation due to metabolic reduction of total gas pressure in the tissues.</dd>
