@@ -1,3 +1,17 @@
+"Introduction (Wikipedia Glossary of Underwater Diving Terminology)"|"
+<p>This deck has taken definitions outlined in <a href=""https://en.wikipedia.org/wiki/Glossary_of_underwater_diving_terminology"">Wikipedia's Glossary of underwater diving terminology</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(Wikipedia Glossary of Underwater Diving Terminology)"" appended to the end so that if you have any other words in your collection, the Wikipedia definition will still be added when importing it.</li>
+<li>Any updates or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Underwater-Diving-Terminology-Flashcards""></a><a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Underwater-Diving-Terminology-Flashcards"">https://github.com/darigovresearch/Wikipedia-Glossary-of-Underwater-Diving-Terminology-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This deck uses material from the Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_underwater_diving_terminology"">""Glossary of underwater diving terminology""</a>, which is released under the <a href=""https://creativecommons.org/licenses/by-sa/3.0/"">Creative Commons Attribution-Share-Alike License 3.0</a>.</p>
+<p>To see this work in full go to <a href=""https://en.wikipedia.org/wiki/Glossary_of_underwater_diving_terminology"">https://en.wikipedia.org/wiki/Glossary_of_underwater_diving_terminology</a></p>
+"
 "AA6061 (Wikipedia Glossary of Underwater Diving Terminology)"|"
 <p class=""glossary-hatnote""><style data-mw-deduplicate=""TemplateStyles:r1033289096"">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><span role=""note"" class=""hatnote navigation-not-searchable selfref"">Main article: <a href=""https://en.wikipedia.org/wiki/6061_aluminium_alloy"" title=""6061 aluminium alloy"">6061 aluminium alloy</a></span></p>
 Aluminium alloy used for manufacture of new diving cylinders exclusively since mid 1988 as it is not susceptible to <a href=""https://en.wikipedia.org/wiki/Sustained_load_cracking"" title=""Sustained load cracking"">sustained load cracking</a>.<sup id=""cite_ref-Harlow_1999_1-0"" class=""reference""><a href=""#cite_note-Harlow_1999-1"">&#91;1&#93;</a></sup><sup id=""cite_ref-PSI_2016_2-0"" class=""reference""><a href=""#cite_note-PSI_2016-2"">&#91;2&#93;</a></sup>
